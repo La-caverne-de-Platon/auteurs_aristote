@@ -1,0 +1,1442 @@
+
+
+Définition du contingent
+
+Après cela, il nous faut parler de ce qui « se peut » et dire quand et comment, et au moyen de quelles prémisses, il y aura déduction. Par « il se peut que — » et par « contingent », j'entends ce qui n'est pas nécessaire et que l'on peut supposer être le cas sans qu'il [20] en résulte une impossibilité (en effet, c'est de façon équivoque que nous disons que le nécessaire « se peut »).
+
+
+
+
+Une note1
+
+Que le contingent soit cela, on le voit à partir des négations et des affirmations opposées. En effet, « il ne se peut pas que ce soit le cas », « il est impossible que ce soit le cas » et « il est nécessaire que ce ne soit pas le cas » sont la même proposition, ou bien s'impliquent les unes les autres ; de sorte que [25] leurs opposées aussi : « il se peut que ce soit le cas », « il n'est pas impossible que ce soit le cas » et « il n'est pas nécessaire que ce ne soit pas le cas », sont la même proposition, ou bien s'impliquent les unes les autres. En effet, à propos de tout sujet l'affirmation ou la négation <est vraie>. Donc le contingent sera non nécessaire et le non nécessaire sera contingent.
+
+
+
+
+Conversion des propositions contingentes
+
+Il s'ensuit [30] que toutes les prémisses du type « il se peut que — » se convertissent les unes dans les autres. Je ne parle pas des affirmatives et des négatives, mais <je veux dire que> celles qui ont une forme affirmative se correspondent entre opposées ; par exemple « il se peut que ce soit le cas » correspond à « il se peut que ce ne soit pas le cas », « il se peut que ce soit le cas pour tout X » à « il se peut que ce ne soit le cas pour aucun X » ou « que ce ne soit pas le cas pour tout X », et [35] « pour tel X » à « pas pour tel X » ; et de la même façon pour toutes les autres. Car puisque le contingent n'est pas nécessaire et que ce qui n'est pas nécessaire peut ne pas être le cas, on voit que s'il se peut que A soit le cas pour B, il se peut aussi qu'il ne soit pas le cas, et que s'il se peut qu'il soit le cas pour tout B, il se peut aussi qu'il ne soit pas le cas pour tout B. [40] Même chose pour les affirmations particulières, car la démonstration est [32b] la même. Et des prémisses de cette sorte sont affirmatives et non négatives ; en effet, il se peut que — se construit comme être (on l'a dit précédemment).
+
+
+
+
+Sémantique de « il se peut que — »
+
+Ayant fait ces distinctions, disons maintenant que il se peut que — [5] se dit de deux façons : premièrement cela indique quelque chose qui se produit en règle générale ou quand la nécessité n'est pas constante : par exemple que l'homme grisonne, ou qu'il croît ou décline, et en général tout ce qui est le cas par nature. En effet, cela ne présente pas une nécessité constante, du fait que l'homme n'existe pas toujours ; lorsque l'homme existe, cependant, cela se produit [10] nécessairement ou bien en règle générale. Mais cela indique aussi l'indéterminé, ce qui est possible aussi bien ainsi qu'autrement, par exemple le fait qu'un animal marche ou que le sol tremble lorsqu'il marche, et en général tout ce qui se produit par hasard : car cela n'est pas disposé par nature à se produire de cette façon-ci plutôt que de celle-là.
+
+Chacun de ces deux types de contingent, donc, se convertit aussi selon une opposition de prémisses ; [15] pas de la même façon cependant, mais ce qui est de nature à être le cas a pour correspondant « n'est pas nécessairement le cas » (c'est ainsi, en effet, qu'il se peut qu'un homme ne grisonne pas), et l'indéterminé a pour correspondant « pas plus de cette façon-ci que de celle-là ». Or il n'y a pas de science, c'est-à-dire de déduction démonstrative, des indéterminés, du fait que le moyen terme est irrégulier ; [20] alors qu'il y en a de ce qui est par nature, et en pratique nos arguments et nos recherches portent sur ce qui « se peut » de cette façon (mais il peut y avoir une déduction des autres propositions, même si on n'a pas l'habitude de la chercher). Ces choses seront précisées davantage par la suite. Pour le moment, disons quand et comment il y aura déduction à partir de prémisses contingentes, [25] et quel type de déduction.
+
+« Il se peut que ceci soit le cas pour cela » peut s'interpréter de deux façons, en considérant soit ce pour quoi ceci est le cas, soit ce pour quoi il se peut que ce soit le cas. En effet, « il se peut que A s'applique à ce qui est B » indique l'une de ces deux choses : soit ce dont on dit qu'il est B, soit ce dont il se peut qu'on le dise ; par ailleurs il n'y a aucune différence entre [30] « il se peut que A s'applique à ce qui est B » et « A peut être le cas pour tout B ». On voit donc qu'on peut entendre de deux façons « il se peut que A soit le cas pour tout B ».
+
+Disons donc d'abord quelle déduction aura lieu, et de quelle sorte, s'il se peut que B s'applique à ce qui est C et A à ce qui est B ; de cette façon, en effet, on donne aux deux prémisses [35] la forme il se peut que —, alors que lorsqu'il se peut que A soit le cas pour ce pour quoi B est le cas, l'une est factuelle et l'autre contingente ; de sorte que, comme dans les autres cas, il nous faut commencer par celles qui sont de même type.
+
+
+
+
+
+Chapitre 14
+
+
+Première figure : deux prémisses contingentes
+
+Lorsqu'il se peut, donc, que A soit le cas pour tout B et B pour tout C, il y aura une déduction parfaite de « il se peut que A soit le cas pour tout C ». [40] Cela se voit à partir de la définition. En effet, [33a] nous avons vu que « il se peut que ce soit le cas pour tout — » s'entend en ce sens.
+
+De même, s'il se peut que A ne soit le cas pour aucun B, et B pour tout C, il y aura une déduction parfaite de « il se peut que A ne soit le cas pour aucun C ». En effet, qu'il se puisse que A soit le cas pour ce pour quoi il se peut que B soit le cas, cela revient, on l'a vu, à ne laisser de côté aucun [5] des objets qui pourraient être sous B. Et lorsqu'il se peut que A soit le cas pour tout B et que B ne soit le cas pour aucun C, on n'obtient pas de déduction avec les prémisses telles qu'elles ont été posées ; mais en convertissant BC selon les règles propres au contingent, on obtient la même déduction que précédemment. Car puisqu'il se peut que B ne soit le cas pour aucun C, [10] il se peut aussi qu'il soit le cas pour tous (nous l'avons dit précédemment). De sorte que, <s'il se peut que> B soit le cas pour tout C et A pour tout B, on aura à nouveau la même déduction.
+
+Même chose si l'on ajoute à chacune des deux prémisses la négation accompagnée de « il se peut que — » : je veux dire, par exemple, s'il se peut que A ne soit le cas pour aucun des B, et [15] B pour aucun des C. En effet, on n'obtient pas de déduction au moyen des prémisses telles qu'elles ont été posées, mais en les convertissant on aura à nouveau la même, tout comme dans le cas précédent. On voit donc qu'en plaçant la négation du côté du petit terme ou sur les deux prémisses, ou bien il n'y a pas de démonstration, ou bien il y en a une, mais [20] elle n'est pas parfaite : en effet, sa nécessité résulte d'une conversion.
+
+
+
+Si l'on prend une des prémisses universelle et l'autre particulière, alors lorsque l'universelle est placée du côté du grand terme, il y aura une déduction parfaite. Car s'il se peut que A soit le cas pour tout B, et B pour tel C, alors il se peut que A soit le cas pour tel C. Cela se voit d'après la [25] définition de « il se peut que — ».
+
+Si maintenant il se peut que A ne soit le cas pour aucun B et que B soit le cas pour tel des C, alors, nécessairement, il se peut que A ne soit pas le cas pour tel des C ; la démonstration est la même. Mais si on prend la prémisse particulière négative, et l'universelle affirmative, les propositions étant dans la même disposition (ainsi « il se peut que A soit le cas pour tout B » [30] et « il se peut que B ne soit pas le cas pour tel C »), alors il n'y a pas de déduction au moyen des prémisses telles qu'on les a prises, mais en convertissant la particulière, et en posant qu'il se peut que B soit le cas pour tel C, on aura la même conclusion que précédemment, comme dans tous les cas que nous avons vus depuis le début.
+
+
+
+Lorsqu'on pose que la prémisse qui est du côté du grand [35] extrême est particulière et que celle qui est du côté du petit est universelle, qu'on les pose toutes deux affirmatives ou toutes deux négatives, ou pas du même type, ou qu'on les pose toutes deux indéterminées et partielles, il n'y aura de déduction d'aucune façon. En effet, rien n'empêche que B n'excède A et qu'ils ne soient pas attribués de façon égale ; posons que C est ce [40] dont B excède A. Pour ce terme <c>, il ne « se peut » que A soit le cas ni « pour tous », [33b] ni « pour aucun », ni « pour tel », ni « pas pour tel », s'il est vrai que les prémisses du type « il se peut que — » se convertissent, et s'il se peut que B soit le cas pour davantage d'objets que A.
+
+
+
+D'ailleurs cela se voit aussi à partir des termes. Nécessairement en effet, lorsque les prémisses sont dans cette disposition, il se peut que [5] le premier terme soit le cas pour la totalité de l'autre extrême, et qu'il ne soit le cas pour aucun.
+
+Termes communs :
+
+– pour « c'est nécessairement le cas » : {animal, blanc, homme} ;
+
+– pour « il ne se peut pas que ce soit le cas » : {animal, blanc, vêtement}.
+
+On voit donc que lorsque les termes sont dans cette disposition, il n'en résulte aucune déduction. En effet, toute déduction est déduction soit [10] du fait, soit du nécessairement, soit du il se peut que —. On voit bien qu'il n'y a pas de déduction du fait ni du nécessaire, car le terme affirmatif est supprimé par le terme négatif, et le négatif par l'affirmatif. Il reste alors que ce soit une déduction du il se peut que —. Mais c'est impossible ; car on a démontré qu'avec cette disposition des termes [15] il s'ensuit nécessairement qu'il se peut aussi bien que le premier extrême soit le cas pour toute instance du dernier ou qu'il ne soit le cas pour aucune. De sorte qu'il n'y aurait pas de déduction du contingent ; car le nécessaire, on l'a vu, n'est pas quelque chose qui « se peut ».
+
+
+
+On voit que dans le cas de prémisses contingentes, lorsque les termes sont pris universellement, il y a toujours déduction dans la première [20] figure, que les prémisses soient affirmatives ou qu'elles soient négatives ; avec cette différence, que lorsqu'elles sont affirmatives la déduction est parfaite et lorsqu'elles sont négatives elle est imparfaite. Et il faut poser que le il se peut que — n'est pas contenu implicitement dans les propositions nécessaires, mais il faut l'entendre selon la détermination qu'on a dite ; c'est quelque chose dont on ne se rend pas toujours compte.
+
+
+
+
+
+Chapitre 15
+
+
+Première figure : une prémisse contingente et une prémisse factuelle
+
+[25] Si l'on pose comme l'une des prémisses une proposition du type « c'est le cas », et pour l'autre « il se peut que — », lorsque c'est celle qui est du côté du grand terme qui indique qu'« il se peut que — », toutes les déductions seront parfaites, et elles établiront qu'« il se peut que — » au sens que nous avons déterminé tout à l'heure ; mais lorsque c'est la prémisse qui est du côté du petit terme, les déductions seront toutes imparfaites, et celles d'entre elles qui sont négatives [30] ne seront pas des déductions du contingent au sens qui a été déterminé, mais des déductions de « pour aucun ce n'est nécessairement le cas » ou de « ce n'est pas nécessairement le cas pour tous » : en effet, si ce n'est nécessairement le cas pour aucun ou si ce n'est pas nécessairement le cas pour tous, nous disons qu'il se peut que ce ne soit le cas pour aucun ou que ce ne soit pas le cas pour tous.
+
+
+
+
+Premier cas : les deux prémisses sont universelles, le contingent étant placé
+
+du côté du grand terme
+
+Admettons donc qu'il se peut que A soit le cas pour tout B, et posons que B est le cas pour tout C. Puisque donc C est sous B, [35] et qu'il se peut que A soit le cas pour tout B, on voit qu'il se peut aussi qu'il soit le cas pour tout C ; alors on a une déduction parfaite. Même chose lorsque la prémisse AB est négative et BC affirmative, et que l'une pose qu'il se peut que ce soit le cas, et l'autre que c'est le cas : il y aura une déduction parfaite de « il se peut que A ne soit [40] le cas pour aucun C ».
+
+[34a] On voit donc que lorsqu'on place la prémisse factuelle du côté du petit terme, on obtient des déductions parfaites.
+
+
+
+
+Le contingent étant placé du côté du petit terme
+
+Mais que dans la configuration opposée il y aura des déductions, il faut le montrer par l'impossible ; il sera clair du même coup que ce sont des déductions imparfaites, puisque la démonstration ne se fait pas à partir des prémisses [5] telles qu'elles ont été posées.
+
+
+
+
+Lemmes généraux pour ce cas
+
+Il faut dire d'abord que si, lorsque A est le cas, il est nécessaire que B soit, alors, lorsque A est possible, nécessairement B lui aussi sera possible.
+
+Ceci étant établi, posons en A quelque chose de possible et en B quelque chose d'impossible. Si donc ce qui est possible, lorsque c'est possible, se produit, et si ce qui est impossible, lorsque c'est impossible, [10] ne se produit pas, et si à la fois A est possible et B impossible, il se pourra que A se produise sans B ; et s'il peut se produire, il se pourra aussi qu'il soit sans B (car ce qui s'est produit, une fois qu'il s'est produit, est le cas). Or il faut considérer l'impossible et le possible non seulement à propos des processus physiques, mais aussi à propos du discours vrai et de ce qui « est le cas », et en général dans tous les [15] sens dans lesquels on prend l'impossible et le possible : car il en va de même dans tous ces sens.
+
+Par ailleurs il faut comprendre que « lorsque A est le cas, B est » signifie, non pas que si un certain fait unique A est le cas, alors B sera (car rien n'est par nécessité lorsqu'un fait unique est le cas), mais lorsque deux faits au moins sont ; ainsi lorsque deux prémisses sont disposées selon les règles de la déduction comme on l'a dit. Si en effet [20] C s'applique à D et D à F, nécessairement C aussi s'appliquera à F ; et si chacun des deux est possible, alors la conclusion aussi sera possible – de même, donc, que si on pose que les prémisses sont A et la conclusion B, il s'ensuivra non seulement que, A étant nécessaire, B sera nécessaire, mais que s'il est possible B sera possible.
+
+[25] Ceci étant établi, on voit que si on pose par hypothèse quelque chose qui est faux et non impossible, ce qui résulte de cette hypothèse sera faux et non impossible. Par exemple, si A est faux mais non impossible et si, A étant, B est, alors B aussi sera faux mais non impossible. En effet, puisqu'il a été établi que [30] si A est, B est, et que si A est possible B sera possible, et si on pose par hypothèse que A est possible, B aussi sera possible. Car s'il était impossible, la même chose serait en même temps possible et impossible.
+
+
+
+
+AB affirmative factuelle, BC affirmative contingente
+
+Ces points étant déterminés, admettons que A est le cas pour tout B [35] et qu'il se peut que B soit le cas pour tout C. Nécessairement, donc, il se peut que A soit le cas pour tout C. Admettons en effet que ce ne soit pas le cas, et posons que B est le cas pour tout C (cela est faux, mais cependant pas impossible). Si donc il ne se peut pas que A soit le cas pour tout C et si B est le cas pour tout C, alors il ne se peut pas que A soit le cas pour tout B [40] (car cela donne une déduction par la troisième figure). Mais la supposition initiale était qu'il se peut qu'il soit le cas pour tout B. Donc, nécessairement, il se peut que A soit [34b] le cas pour tout C, car en ayant posé une prémisse fausse et non impossible, il s'ensuit une conséquence impossible.
+
+[On peut aussi établir cette impossibilité au moyen de la première figure, en posant que B est le cas pour C. Car si B est le cas pour tout C, et s'il se peut que A soit [5] le cas pour tout B, il se pourra aussi que A soit le cas pour tout C. Mais l'hypothèse était qu'il se pouvait qu'il ne soit pas le cas pour tout C.]
+
+
+
+Il faut prendre est le cas pour tout — sans le délimiter temporellement (par exemple « maintenant » ou « pendant ce temps-ci »), mais absolument. Car c'est aussi à partir de prémisses de cette sorte que nous produisons des déductions, [10] étant donné que si l'on prend une prémisse uniquement selon le maintenant, il n'y aura pas de déduction ; car sans doute rien n'empêche qu'à un moment donné homme ne soit le cas pour tout objet en mouvement (au cas où rien d'autre ne serait en mouvement) ; or il se peut que en mouvement soit le cas pour tout cheval ; et pourtant homme ne peut être le cas pour aucun cheval. Ou encore, posons que le premier terme soit animal, le terme moyen [15]en mouvement et le dernier terme homme. Les prémisses sont donc dans la même disposition et la conclusion est nécessaire et non contingente, car l'homme est nécessairement un animal. On voit donc qu'il faut prendre l'universel sans plus de spécifications, et sans le délimiter temporellement.
+
+
+
+
+AB négative, BC affirmative contingente
+
+Admettons maintenant que la prémisse AB est négative et universelle, et [20] posons que A n'est le cas pour aucun B et qu'il se peut que B soit le cas pour tout C. Une fois que l'on a posé ces prémisses, nécessairement, il se peut que A ne soit le cas pour aucun C.
+
+En effet, admettons que ce ne soit pas possible et posons que B est le cas pour C (comme dans la preuve précédente). Alors il est nécessaire que A soit le cas pour tel B (car on obtient une déduction par [25] la troisième figure) ; mais ceci est impossible. De sorte qu'il se peut que A ne soit le cas pour aucun C. En effet, ayant supposé la fausseté de cette proposition, il s'ensuit une conséquence impossible. Cette déduction, donc, n'est pas la déduction du contingent (au sens de la définition qui en a été donnée), mais une déduction de « il n'est pas nécessaire que A soit le cas pour un C ». En effet, c'est cela qui est l'opposé de la supposition qui a été faite : car on avait posé que A est [30] nécessairement le cas pour tel C, or la déduction par l'impossible est une déduction de l'assertion opposée à l'hypothèse initiale.
+
+D'ailleurs, à partir des termes aussi on voit que la conclusion ne sera pas contingente. Soit A = corbeau, en B : doué de réflexion et en C : homme. A, alors, n'est le cas pour aucun B, car aucun être [35] doué de réflexion n'est un corbeau. Or il se peut que B soit le cas pour tout homme : car réfléchir convient à tout homme. Mais A, nécessairement, n'est le cas pour aucun C ; donc la conclusion n'est pas contingente. Mais elle n'est pas non plus nécessaire dans tous les cas : soit en effet A = en mouvement, B = science et en C : homme. A, donc, ne sera le cas pour aucun B, [40] et il se peut que B soit le cas pour tout C, et la conclusion ne sera pas nécessaire. En effet, il n'est pas nécessaire qu'aucun homme ne soit en mouvement ; mais [35a] il n'est pas nécessaire que tel homme soit en mouvement. Il est donc clair que la conclusion est que ce n'est nécessairement le cas pour aucun ; mais il faut choisir plus soigneusement les termes.
+
+
+
+
+AB affirmative factuelle, BC négative contingente
+
+Si l'on place la négative du côté du petit terme et si elle indique qu'il se peut que —, alors il n'y aura pas de déduction à partir des prémisses [5] telles qu'elles ont été posées ; mais, comme dans les cas précédents, il y en aura une en convertissant la prémisse qui indique qu'il se peut que —.
+
+Admettons en effet que A soit le cas pour tout B et qu'il se peut que B ne soit le cas pour aucun C. Dans cette disposition des termes, il n'y aura pas de déduction ; mais si on convertit la prémisse BC et que l'on pose qu'il se peut que B soit le cas pour tout C, [10] il y a une déduction comme précédemment, car les termes sont dans la même configuration, du fait qu'on a posé cela.
+
+
+
+
+AB négative, BC négative contingente
+
+Et de la même façon si les deux intervalles sont négatifs, lorsque AB signifie que ce n'est le cas pour aucun et BC qu'il se peut que ce ne soit le cas pour aucun. En effet, au moyen des prémisses telles qu'elles ont été posées, il n'y a aucune sorte de conclusion nécessaire ; mais en convertissant [15] la prémisse qui indique qu'il se peut que —, il y aura une déduction. En effet, posons que A n'est le cas pour aucun B, et qu'il se peut que B ne soit le cas pour aucun C. Au moyen de ces prémisses il ne se produit rien de nécessaire ; mais si on pose qu'il se peut que B soit le cas pour tout C, ce qui est vrai, et si la prémisse AB est maintenue telle quelle, on aura encore [20] une fois la même déduction.
+
+Et si l'on pose que B n'est pas le cas pour tout C, et non pas qu'il se peut qu'il ne soit pas le cas, il n'y aura pas de déduction, que la prémisse AB soit négative ou qu'elle soit affirmative.
+
+Termes communs ;
+
+– pour « — est nécessairement le cas » : {blanc, animal, neige} ;
+
+– pour « il ne se peut pas que — » : {blanc, animal, poix}.
+
+
+
+[25] On voit donc que si les termes sont universels et que l'on pose une prémisse factuelle et l'autre contingente, lorsqu'on pose que c'est la prémisse qui est du côté du petit terme qui indique qu'il se peut que —, il y a toujours déduction, avec cette réserve que tantôt cela se fait avec les prémisses elles-mêmes et tantôt en convertissant cette prémisse. Dans quels cas on a l'un ou l'autre <genre de solution>, [30] et pour quelle raison, on l'a dit.
+
+
+
+
+Deuxième cas : une prémisse universelle et l'autre particulière
+
+Si on prend l'un des intervalles universel et l'autre particulier, lorsqu'on prend universel et contingent celui qui est du côté du grand terme, qu'il soit négatif ou qu'il soit affirmatif, et que l'intervalle particulier est négatif et factuel, il y aura une déduction parfaite, tout comme lorsque les [35] termes sont universels. La démonstration est la même que précédemment.
+
+
+
+Lorsqu'on pose que l'intervalle qui est du côté du grand terme est universel, mais factuel et non contingent, et que l'autre est particulier et contingent, alors, que l'on pose que l'une et l'autre prémisse sont négatives ou affirmatives, ou que l'on pose l'une des deux affirmative et l'autre négative, de toutes ces façons il y aura une déduction [40] imparfaite – avec cette différence que certaines se démontreront par l'impossible, [35b] et les autres par la conversion de la prémisse contingente, comme dans les cas précédents.
+
+
+
+Il y aura déduction par conversion aussi lorsque la prémisse universelle, étant placée du côté du grand terme, indique ce qui est le cas, cependant que la particulière, étant négative, [5] pose qu'il se peut que — : ainsi si A est ou n'est pas le cas pour tout B et qu'il se peut que B ne soit pas le cas pour tel C ; car en convertissant BC selon les règles propres au contingent, on obtient une déduction.
+
+Mais lorsque la prémisse qui a été prise particulière pose que ce n'est pas le cas, il n'y aura pas de déduction.
+
+Termes :
+
+– pour « c'est le cas » : [10] {blanc, animal, neige} ;
+
+– pour « ce n'est pas le cas » : {blanc, animal, poix}
+
+(en effet, on obtiendra cette démonstration par l'indéterminé).
+
+
+
+Et si l'on place l'universel du côté du petit terme et le particulier du côté du grand, que l'un ou l'autre soit négatif ou affirmatif, ou contingent ou factuel, d'aucune manière il n'y aura de déduction.
+
+
+
+
+Troisième cas : deux prémisses particulières ou indéfinies
+
+Il n'y en aura pas davantage [15] lorsqu'on prend des prémisses particulières ou indéfinies, soit qu'elles posent qu'il se peut que —, soit qu'elles posent que c'est le cas, ou encore une combinaison des deux : de cette façon non plus il n'y aura pas de déduction. La démonstration est la même que précédemment.
+
+Termes communs :
+
+– pour « — est <nécessairement> le cas » : {animal, blanc, homme} ;
+
+– pour « il ne se peut pas que — » : {animal, blanc, vêtement}.
+
+
+
+[20] On voit donc que si l'on pose que c'est l'intervalle situé du côté du grand terme qui est universel, il y a toujours une déduction, mais que lorsque c'est celui qui est du côté du petit, il n'y a jamais de déduction de quoi que ce soit.
+
+
+
+
+
+Chapitre 16
+
+
+Première figure ; une prémisse nécessaire et une prémisse contingente
+
+Lorsque l'une des prémisses indique que c'est nécessairement le cas et l'autre qu'il se peut que —, la déduction aura lieu lorsque les termes seront [25] disposés de la même manière, et elle sera parfaite lorsqu'on pose le nécessaire du côté du petit terme.
+
+La conclusion, si les termes sont affirmatifs, énoncera qu'« il se peut que — » et non que c'est le cas, qu'on prenne les termes de façon universelle ou de façon non universelle.
+
+Lorsque l'un <des intervalles> est affirmatif et l'autre négatif, alors, lorsque c'est <l'intervalle> affirmatif [30] qui est nécessaire, la conclusion énoncera qu'il se peut que ce ne soit pas le cas et non que ce n'est pas le cas ; et lorsque c'est la négative, elle énoncera qu'il se peut que ce ne soit pas le cas aussi bien que « ce n'est pas le cas », que les termes soient universels ou qu'ils soient non universels (dans la conclusion, la contingence est à prendre de la même façon que précédemment).
+
+Mais il n'y aura pas de déduction de « nécessairement [35] ce n'est pas le cas » (car « ce n'est pas nécessairement le cas » n'est pas la même chose que « nécessairement ce n'est pas le cas »).
+
+
+
+Que donc, lorsque les termes sont affirmatifs, la conclusion qui en résulte n'est pas nécessaire, cela se voit. Admettons en effet que A est le cas nécessairement pour tout B, et qu'il se peut que B soit le cas pour tout C. [40] Il y aura alors une déduction imparfaite de ce qu'il se peut que A soit le cas [36a] pour tout C (cette déduction sera imparfaite, on le voit à sa démonstration ; en effet, on le démontrera de la même façon que précédemment). Admettons maintenant qu'il se peut que A soit le cas pour tout B, et que B est nécessairement le cas pour tout C. Alors, il y aura déduction de « il se peut que A soit le cas [5] pour tout C », mais non pas de ce qu'il est le cas, et ce sera une déduction parfaite, et non pas imparfaite. Car elle est directement achevée à partir des prémisses qui ont été posées au départ.
+
+
+
+Si les prémisses ne sont pas du même type, posons d'abord que la négative est nécessaire, c'est-à-dire posons que A ne peut être le cas pour aucun B, et qu'il se peut que B soit le cas pour tout C. [10] Alors, il est nécessaire que A ne soit le cas pour aucun C. Posons en effet qu'il soit le cas pour tout C, ou pour tel C ; or on a posé qu'il ne peut être le cas pour aucun B. Puisque donc la négative se convertit, il n'est pas non plus possible que B soit le cas pour aucun A. Mais on a posé que A est le cas pour C (soit pour tout C, soit pour tel C) ; de sorte que B ne pourra pas être le cas pour C (soit pour aucun C, soit pas pour tel C). [15] Mais on a supposé au départ qu'il <se pouvait qu'il> soit le cas pour tout C. On voit qu'il y a déduction de « il se peut que ce ne soit pas le cas », dès lors qu'il y en a une de « ce n'est pas le cas ».
+
+Admettons maintenant que la prémisse affirmative est nécessaire, c'est-à-dire posons qu'il se peut que A ne soit le cas pour aucun des B, et que B est nécessairement le cas pour tout C. La déduction sera certes [20] parfaite, mais elle n'établira pas que A n'est pas le cas, mais <seulement> qu'il se peut qu'il ne soit pas le cas. Car c'est une prémisse de ce type qu'on a posée du côté du grand terme, et il n'est pas possible de procéder par réduction à l'impossible. En effet, si l'on supposait que A est le cas pour tel C, alors qu'il a été posé qu'il se peut aussi qu'il ne soit le cas pour aucun B, de ces prémisses il ne s'ensuit aucune impossibilité.
+
+[25] Si c'est du côté du petit terme que l'on place la négative, alors, lorsqu'elle indique qu'il se peut que —, il y aura une déduction par conversion, comme dans les exemples précédents ; et lorsqu'elle indique qu'il ne se peut pas que —, il n'y aura pas de déduction. Il n'y en aura pas non plus si l'on pose que les deux intervalles sont négatifs, et si celui qui est du côté du petit terme n'est pas contingent.
+
+Les termes sont les mêmes :
+
+– pour « c'est [30] le cas » : {blanc, animal, neige} ;
+
+– pour « ce n'est pas le cas » : {blanc, animal, poix}.
+
+
+
+Il en ira de même pour la déduction des propositions particulières. Lorsque c'est la négative qui est nécessaire, la conclusion aussi sera que <A> n'est pas le cas <pour C>.
+
+
+
+Ainsi, si A ne peut être le cas pour aucun des B, [35] et s'il se peut que B soit le cas pour tel C, il est nécessaire que A ne soit pas le cas pour tel C. En effet, s'il est le cas pour tout C et s'il ne peut être le cas pour aucun B, alors B ne peut être le cas pour aucun A non plus. De sorte que si A est le cas pour tout C, B ne peut être le cas pour aucun des C ; mais la supposition était qu'il se peut qu'il soit le cas pour tel C.
+
+
+
+Lorsque c'est la proposition particulière affirmative [40] qui est nécessaire (dans la déduction d'une conclusion négative), par exemple BC, ou l'universelle [36b] dans la déduction d'une conclusion affirmative, par exemple AB, il n'y aura pas de déduction de « c'est le cas ». La démonstration est la même que précédemment.
+
+
+
+Lorsqu'on pose que l'universelle est du côté du petit terme (qu'elle soit affirmative ou négative) et qu'elle est contingente, et que la particulière, située du côté du grand extrême, est [5] nécessaire, il n'y aura pas de déduction.
+
+Termes :
+
+– pour l'affirmative nécessaire : {animal, blanc, homme} ;
+
+– pour « il ne se peut pas que — » : {animal, blanc, vêtement} ;
+
+lorsque l'universelle est nécessaire et la particulière contingente, les termes sont :
+
+– pour « c'est le cas » : {animal, blanc, corbeau} ;
+
+– pour [10] « ce n'est pas le cas » : {animal, blanc, poix} ;
+
+et si l'universelle est affirmative, les termes sont :
+
+– pour « c'est le cas » : {animal, blanc, cygne} ;
+
+– pour l'impossibilité : {animal, blanc, neige}.
+
+
+
+Lorsqu'on prend des prémisses indéterminées ou toutes deux particulières, il n'y aura pas de déduction non plus de cette façon.
+
+Termes communs :
+
+– pour « c'est le cas » : {animal, blanc, homme} ;
+
+– pour [15] « ce n'est pas le cas » : {animal, blanc, inanimé}.
+
+Et de fait, animal est le cas pour tel objet blanc et blanc pour tel objet inanimé, et de façon nécessaire, en même temps qu'il ne se peut pas qu'ils soient le cas pour tels autres. Et il en va de même pour la contingence, de sorte que ces termes sont utilisables contre toutes ces formules.
+
+
+
+À partir de ce qui a été dit, on voit donc que c'est avec des termes qui sont dans la même configuration [20] qu'il y a et qu'il n'y a pas déduction dans le contingent et dans les propositions nécessaires ; excepté, on l'a vu, qu'il y a une déduction de il se peut que — lorsqu'on pose que la proposition négative est du type c'est le cas, et qu'il y a déduction à la fois de il se peut que — et de ce n'est pas le cas lorsqu'on pose que la proposition négative est nécessaire.
+
+[Et il est clair que toutes ces déductions sont imparfaites [25] et qu'elles sont achevées au moyen des figures qui ont été exposées précédemment.]
+
+
+
+
+
+Chapitre 17
+
+
+Deuxième figure
+
+Dans la deuxième figure, lorsque les prémisses posent l'une et l'autre qu'il se peut que —, il n'y aura aucune déduction, qu'on les pose affirmatives ou négatives, universelles ou particulières.
+
+Si l'une indique que c'est le cas et l'autre qu'il se peut que —, [30] alors, si c'est l'affirmative qui indique que c'est le cas, il n'y aura jamais de déduction ; mais si c'est la négative universelle, il y en aura toujours. Il en va de même lorsque l'on prend l'une des prémisses nécessaire et l'autre contingente. Mais dans ce cas aussi, il faut prendre le il se peut que — de la conclusion comme dans le cas précédent.
+
+
+
+
+Deuxième figure ; deux prémisses contingentes
+
+[35] Il faut établir d'abord que, dans le contingent, la négative ne se convertit pas. Ainsi, s'il se peut que A ne soit le cas pour aucun des B, il n'est pas nécessaire que B puisse n'être le cas pour aucun A.
+
+Posons en effet cela, et admettons que B peut n'être le cas pour aucun des A. Par suite, puisque dans le contingent les affirmatives se convertissent dans les négatives (aussi bien les contraires [40] que les opposées) et qu'il se peut que B ne soit le cas pour aucun A, [37a] on voit qu'il peut aussi bien être le cas pour tout A. Mais cela est faux ; car ce n'est pas parce qu'il se peut que X soit le cas pour tout Y, que nécessairement Y est le cas pour X ; de sorte que la négative ne se convertit pas. D'ailleurs, rien n'empêche que A puisse n'être le cas pour aucun B et que nécessairement [5] B ne soit pas le cas pour tel des A : ainsi il se peut que blanc ne soit le cas pour aucun homme (et de fait, il est contingent que ce soit le cas), mais il n'est pas vrai de dire qu'il se peut que homme ne soit le cas pour aucun être blanc, car il y en a beaucoup pour lesquels c'est nécessairement qu'il n'est pas le cas, et nous avons vu que le nécessaire n'est pas contingent.
+
+En outre, on ne peut pas non plus montrer par l'impossible qu'elle se [10] convertit : ainsi, si quelqu'un estimait que, puisqu'il est faux que B puisse n'être le cas pour aucun A, il est vrai qu'il ne peut pas n'être le cas pour aucun (en effet, ces deux énoncés sont l'affirmation et la négation <du même contenu>) et que, si ceci est vrai, B est nécessairement le cas pour tel des A, de sorte que A aussi sera nécessairement le cas pour tel des B, or cela est impossible. C'est que ce n'est pas parce qu'il ne se peut pas [15] que B ne soit le cas pour aucun des A, qu'il est nécessaire qu'il soit le cas pour tel d'entre eux. Car « il ne se peut pas que ce ne soit le cas pour aucun X » peut signifier deux choses : d'une part, que c'est nécessairement le cas pour tel d'entre eux ; d'autre part, que nécessairement ce n'est pas le cas pour tel d'entre eux. En effet, ce qui doit nécessairement ne pas être le cas pour tel des A, il n'est pas vrai de dire qu'il se peut que ce ne soit pas le cas, tout comme il n'est pas vrai de dire de ce qui doit nécessairement être le cas pour tel A qu'il [20] se peut que ce soit le cas pour tout A. Si donc quelqu'un pensait que puisqu'il n'est pas vrai de dire qu'il se peut que C soit le cas pour tout D, il doit nécessairement ne pas être le cas pour tel D, il admettrait quelque chose de faux : C est en effet le cas pour tout D ; mais du fait que pour certains il est le cas de façon nécessaire, pour cette raison nous disons qu'il ne se peut pas qu'il soit le cas pour tout D : de sorte qu'à « il se peut que ce soit le cas pour tous » s'opposent à la fois « c'est [25] nécessairement le cas pour tel » et « nécessairement ce n'est pas le cas pour tel » ; même chose pour « il se peut que ce ne soit le cas pour aucun ». Il est donc clair qu'en relation avec « il se peut que — » et « il ne se peut pas que — », tels que nous les avons définis en commençant, il faut considérer non seulement « c'est nécessairement le cas pour tel », mais aussi « nécessairement ce n'est pas le cas pour tel », et qu'en posant cela il ne s'ensuit aucune [30] impossibilité, de sorte que dans le cas qui nous occupe il n'y a pas de déduction. On voit donc, à partir de ce qui a été dit, que la négative ne se convertit pas.
+
+
+
+Maintenant que cela est établi, admettons qu'il se peut que A ne soit le cas pour aucun B et soit le cas pour tout C.
+
+D'abord, il n'y aura pas de déduction par conversion, car on a dit qu'une telle prémisse ne se convertit pas. [35] Mais il n'y en a pas non plus par l'impossible. Car en posant qu'il se peut que B soit le cas pour tout C, il ne s'ensuit aucune fausseté ; car A pourrait aussi bien être le cas pour tout C ou n'être le cas pour aucun.
+
+
+
+Plus généralement, s'il y a déduction, il est clair qu'elle établira qu'« il se peut que » (puisqu'aucune des deux prémisses n'a été prise factuelle) [40] et qu'elle sera affirmative ou négative : or ni l'un ni l'autre [37b] n'est possible. Car si on pose qu'elle est affirmative, on montrera au moyen des termes qu'il ne se peut pas que ce soit le cas ; et si on pose qu'elle est négative, que la conclusion n'est pas contingente mais nécessaire. Soit en effet A = blanc, B = homme et en C, cheval : alors [5] il se peut que A, blanc, soit le cas pour tous d'un côté et pour aucun de l'autre. Mais il ne se peut ni que B soit le cas pour C, ni qu'il ne le soit pas. Qu'il ne se peut pas qu'il soit le cas, cela se voit, car aucun cheval n'est un homme ; mais il n'est pas non plus contingent qu'il ne soit pas le cas : car c'est par nécessité qu'aucun cheval n'est un homme, et le nécessaire, avons-nous dit, [10] n'est pas quelque chose qui « se peut ». Donc il n'y aura pas de déduction.
+
+On le démontrera de la même façon si on prend la négative de l'autre côté, ou si on prend les prémisses toutes deux affirmatives ou toutes deux négatives (car la démonstration se fera au moyen des mêmes termes) ; et encore lorsque l'une est universelle et l'autre particulière, ou toutes deux particulières ou indéterminées, ou de toutes [15] les autres façons dont il est possible de faire varier les prémisses. Car la démonstration se fera toujours au moyen des mêmes termes. On voit donc que lorsqu'on prend les deux prémisses sur le mode du il se peut que —, il n'y a aucune déduction.
+
+
+
+
+
+Chapitre 18
+
+
+Deuxième figure ; une prémisse factuelle et une prémisse contingente
+
+Si l'une indique que c'est le cas et l'autre que cela se peut, alors, lorsqu'on pose que c'est [20] l'affirmative qui indique que c'est le cas et la négative qu'il se peut que —, il n'y aura jamais de déduction, que l'on prenne les termes de façon universelle ou qu'on les prenne de façon particulière (la démonstration est la même et se fait sur les mêmes termes) ; mais lorsque l'affirmative indique qu'il se peut que — et la négative indique l'état de fait, il y aura déduction.
+
+Admettons en effet que [25] A n'est le cas pour aucun B et qu'il se peut qu'il soit le cas pour tout C. En convertissant la prémisse négative, donc, B ne sera le cas pour aucun A. Or on a dit qu'il se peut que B soit le cas pour tout C ; on a alors, par la première figure, une déduction de ce qu'il se peut que B ne soit le cas pour aucun C. Même chose en posant la négative du côté de C.
+
+Lorsque les deux [30] prémisses sont négatives et que l'une indique que ce n'est pas le cas et l'autre qu'il se peut que —, alors rien ne s'ensuit nécessairement des prémisses telles qu'elles ont été posées, mais, en convertissant la prémisse du type il se peut que —, il y a une déduction établissant qu'il se peut que B ne soit le cas pour aucun C, comme dans le cas précédent : [35] car ce sera encore une fois la première figure. Mais lorsque l'on pose les deux prémisses affirmatives, il n'y aura pas de déduction.
+
+Termes :
+
+– pour « c'est le cas » : {santé, animal, homme} ;
+
+– pour « ce n'est pas le cas » : {santé, cheval, homme}.
+
+
+
+Il en ira de même pour les déductions particulières. [40] Lorsque c'est l'affirmative qui indique que c'est le cas, qu'elle soit prise [38a] universellement ou de façon particulière, il n'y aura aucune déduction ; cela se démontre de façon semblable, et au moyen des mêmes termes, que les cas précédents. Mais lorsque c'est la négative, il y aura déduction par conversion, comme dans les cas précédents.
+
+Si maintenant on prend les deux intervalles négatifs [5] et que l'on prend universellement le « ce n'est pas le cas », il n'y aura pas de nécessité à partir des prémisses telles quelles, mais, en convertissant le « il se peut que — » comme dans les cas précédents, il y aura déduction.
+
+Lorsque c'est la négative qui est du type c'est le cas et qu'elle est prise de façon particulière, il n'y aura pas de déduction, que l'autre prémisse soit affirmative ou [10] qu'elle soit négative.
+
+Il n'y en a pas non plus si on les prend toutes deux indéfinies (qu'elles soient affirmatives ou négatives), ou toutes deux particulières ; la démonstration est la même et se fait par les mêmes termes.
+
+
+
+
+
+Chapitre 19
+
+
+Deuxième figure ; une prémisse nécessaire et une prémisse contingente
+
+Lorsque l'une des deux prémisses indique que c'est nécessairement le cas et l'autre qu'« il se peut que — », alors, lorsque c'est la négative qui est nécessaire, il y aura [15] déduction, non seulement de ce qu'il se peut que ce ne soit pas le cas, mais même de ce que ce n'est pas le cas ; mais si c'est l'affirmative, il n'y aura pas de déduction.
+
+Posons en effet que A doit nécessairement n'être le cas pour aucun B, et qu'il se peut qu'il soit le cas pour tout C. En convertissant, donc, la prémisse négative, B non plus ne sera le cas pour aucun A. Or on a dit qu'il se peut que A soit le cas pour tout C. [20] Alors on a encore une fois, selon la première figure, une déduction de ce qu'il se peut que B ne soit le cas pour aucun C. En même temps, il est clair que B ne sera le cas pour aucun des C. Posons en effet qu'il soit le cas. Donc, si A ne peut être le cas pour aucun B et si B est le cas pour tel des C, alors A ne peut pas être le cas pour tel des C. Mais on a supposé [25] qu'il se peut qu'il soit le cas pour tout C.
+
+On le démontrera de la même façon si on place la négation du côté de C.
+
+
+
+Posons maintenant que c'est la proposition affirmative qui est nécessaire et que l'autre est contingente, et posons qu'il se peut que A ne soit le cas pour aucun B, mais qu'il est nécessairement le cas pour C : les termes, donc, étant dans cette disposition, il n'y aura pas de déduction. [30] Car il s'ensuit que nécessairement B n'est pas le cas pour C. Soit en effet A = blanc, en B : homme, et en C : cygne. En fait blanc est nécessairement le cas pour un cygne, et il se peut qu'il ne soit le cas pour aucun homme ; et nécessairement homme n'est le cas pour aucun cygne.
+
+Que, donc, il n'y a pas de déduction du il se peut que —, [35] c'est manifeste : car on a dit que le nécessaire n'est pas quelque chose qui « se peut ».
+
+Mais par ailleurs il n'y a pas non plus de déduction du nécessaire. En effet, nous avons vu que le nécessaire se conclut soit de prémisses toutes deux nécessaires, soit d'une négative nécessaire. D'ailleurs il est même possible, lorsqu'on a posé ces prémisses, que B soit le cas pour C. Car rien n'empêche que C soit contenu dans B, cependant que A, [40] d'une part aurait la possibilité d'être le cas pour tout B, et d'autre part serait nécessairement le cas pour C – par exemple si C est éveillé, B animal, et en A, mouvement. Car le mouvement est nécessairement le cas pour un être [38b] éveillé et il se peut qu'il soit le cas pour tout animal ; et tout ce qui est éveillé est un animal. On voit donc qu'il n'y aura pas de déduction de « ce n'est pas le cas », dès lors que c'est nécessairement le cas dans cette configuration des termes.
+
+Il n'y aura pas non plus de déduction des assertions opposées ; de sorte qu'il n'y aura aucune déduction. Et on l'établira [5] de la même façon lorsque l'affirmation est placée de l'autre côté.
+
+
+
+Lorsque les prémisses sont de même type :
+
+Si elles sont négatives, il y a toujours déduction, en convertissant la prémisse du type « il se peut que — », comme dans les cas précédents. Posons en effet que nécessairement A n'est pas le cas pour B et qu'il [10] se peut qu'il ne soit pas le cas pour C. En convertissant les prémisses, donc, B n'est le cas pour aucun A, cependant qu'il se peut que A soit le cas pour tout C : on obtient alors la première figure. Et il en va de même également si l'on place la négative du côté de C.
+
+Mais si on pose des prémisses affirmatives, il n'y aura pas de déduction. Car on voit, d'abord, qu'il n'y aura pas de déduction de « ce n'est pas [15] le cas » ni de « nécessairement ce n'est pas le cas », du fait qu'on n'a pas pris de prémisse négative ; ni dans « c'est le cas » ni dans « c'est nécessairement le cas ». Mais par ailleurs il n'y en a pas non plus de « il se peut que ce ne soit pas le cas » ; car dans cette disposition des termes, c'est nécessairement que B ne sera pas le cas pour C ; ainsi, si l'on pose que A [20] = blanc, en B : cygne, et C = homme. Mais il n'y en aura pas davantage des énoncés opposés, puisqu'il a été montré que nécessairement B n'est pas le cas pour C.
+
+Donc il n'y aura absolument aucune déduction.
+
+
+
+Il en ira de même aussi dans le cas des déductions partielles. [25] En effet, lorsque la négative est universelle et nécessaire, il y aura toujours déduction, aussi bien de il se peut que — que de ce n'est pas le cas ; la démonstration se fait par conversion.
+
+Mais lorsque c'est l'affirmative qui est universelle et nécessaire, il n'y en aura jamais ; on le démontre de la même façon que pour les universelles et avec les mêmes termes.
+
+Il n'y en aura pas non plus [30] lorsqu'on prend les deux prémisses affirmatives ; et de fait, la démonstration de ce point est la même que précédemment.
+
+Lorsque les deux sont négatives et que celle qui indique que ce n'est pas le cas est universelle et nécessaire, il n'y aura aucune déduction du nécessaire à partir des prémisses telles qu'elles ont été posées ; mais il y aura une déduction en convertissant celle qui est [35] du type il se peut que —, comme dans les cas précédents.
+
+Et lorsque toutes les deux sont prises indéfinies ou particulières, il n'y aura pas de déduction ; la démonstration est la même et se fait avec les mêmes termes.
+
+
+
+On voit, à partir de ce qui a été dit, que lorsque la prémisse négative universelle a été prise nécessaire, il y a toujours déduction, [40] non seulement de « il se peut que ce ne soit pas le cas », mais aussi de « ce n'est pas le cas » ; alors que lorsque c'est la prémisse affirmative il n'y en a jamais ; et aussi que c'est avec la même disposition des prémisses qu'il y a, ou qu'il n'y a pas, de déduction, dans les prémisses nécessaires [39a] et dans les factuelles. Et il est clair aussi que toutes ces déductions sont imparfaites et qu'elles sont achevées au moyen des figures précédemment exposées.
+
+
+
+
+
+Chapitre 20
+
+
+Troisième figure ; deux prémisses contingentes
+
+Dans la dernière figure, il y aura déduction aussi bien lorsque les deux [5] prémisses sont contingentes que lorsque l'une des deux l'est.
+
+Lorsque donc les deux prémisses indiquent qu'il se peut que —, la conclusion elle aussi sera contingente, et aussi lorsque l'une des deux indiquera que cela se peut, et la seconde que c'est le cas. Lorsque l'on posera que la seconde est nécessaire, alors si elle est affirmative, la conclusion ne sera ni nécessaire [10] ni factuelle, mais si elle est négative, il y aura déduction de ce que « ce n'est pas le cas », tout comme précédemment. Et, ici aussi, il faudra prendre de la même façon le contingent dans les conclusions.
+
+Ainsi donc, admettons d'abord que les prémisses sont contingentes, et qu'il se peut que A, et aussi [15] que B, soit le cas pour tout C. Puisque donc l'affirmative se convertit en particulière, et qu'il se peut que B soit le cas pour tout C, alors il se pourra aussi que C soit le cas pour tel B. De sorte que s'il se peut que A soit le cas pour tout C, et que C soit le cas pour tel B, il se peut aussi que A soit le cas pour tel des B, car on a la première figure. Et [20] s'il se peut que A ne soit le cas pour aucun C, et que B soit le cas pour tout C, alors nécessairement il se peut aussi que A ne soit pas le cas pour tel B. Car on aura ici encore, par conversion, la première figure.
+
+Si on pose les deux prémisses négatives, la nécessité ne résultera pas des prémisses telles qu'elles ont été prises ; mais il y aura [25] déduction, comme précédemment, en convertissant les prémisses. Car s'il se peut que A, et aussi que B, ne soient pas le cas pour C, alors si l'on transpose « il se peut que ce soit le cas », on aura à nouveau la première figure par conversion.
+
+
+
+Si l'un des termes est universel et l'autre particulier, alors il y aura (ou il n'y aura pas) une déduction [30] pour les mêmes dispositions des termes que dans le cas de prémisses factuelles.
+
+Admettons en effet qu'il se peut que A soit le cas pour tout C, et B pour tel C. Alors on aura encore une fois la première figure en convertissant la prémisse particulière. Car s'il se peut que A soit le cas pour tout C, et C pour tel des B, alors il se peut que A soit le cas pour tel [35] B. Et si l'on place l'universel du côté de BC, il en va de même ; même chose si AC est négatif et BC affirmatif : car on aura à nouveau la première figure par conversion.
+
+Si on pose les deux prémisses négatives, l'une étant universelle et l'autre particulière, il n'y aura pas de déduction [39b] en prenant telles quelles les prémisses qui ont été posées, mais il y en aura en les convertissant, comme précédemment.
+
+Et lorsqu'on prend les deux prémisses indéfinies ou particulières, il n'y aura pas de déduction. Car en fait il arrive, et que A soit nécessairement le cas pour tout B, et que nécessairement il ne le soit pour aucun.
+
+Termes :
+
+– pour « c'est le cas » : [5] {animal, homme, blanc} ;
+
+– pour « ce n'est pas le cas » : {cheval, homme, blanc}
+
+(le moyen terme est blanc).
+
+
+
+
+
+Chapitre 21
+
+
+Troisième figure ; une prémisse factuelle et une prémisse contingente
+
+Et lorsque l'une des prémisses indique que c'est le cas et l'autre que cela se peut, la conclusion sera que cela se peut et non que c'est le cas, et il y aura déduction lorsque les termes seront disposés [10] comme dans les cas précédents.
+
+Posons d'abord qu'ils sont affirmatifs, c'est-à-dire que A est le cas pour tout C et qu'il se peut que B soit le cas pour tout C. En convertissant donc BC, on aura la première figure, et la conclusion sera qu'il se peut que A soit le cas pour tel des B. En effet lorsque, dans la première figure, [15] l'une des deux prémisses indique que cela se peut, alors la conclusion aussi, nous l'avons vu, est contingente.
+
+Même chose si BC indique que c'est le cas et AC que cela se peut, et si AC est négative et BC affirmative, quelle que soit celle des deux qui indique que c'est le cas, d'une façon comme de l'autre la conclusion sera contingente. Car on a [20] à nouveau la première figure, or on a montré que dans celle-ci, si l'une des deux prémisses indique qu'il se peut que —, alors la conclusion aussi sera contingente.
+
+Et si l'on pose que la proposition négative est du côté du petit extrême, ou encore si l'on prend deux prémisses négatives, il n'y aura pas de déduction à partir des prémisses telles qu'elles ont été posées ; mais il y en aura une en les [25] convertissant, comme dans les cas précédents.
+
+
+
+Si l'une des deux prémisses est universelle et l'autre particulière, l'une et l'autre étant affirmatives, ou encore si l'universelle est négative et la particulière affirmative, les déductions <ainsi obtenues> seront du même genre. Car toutes sont achevées au moyen de la [30] première figure. De sorte qu'on voit que la déduction ne sera pas une déduction de c'est le cas, mais de il se peut que —.
+
+Si l'affirmative est universelle et la négative particulière, la démonstration se fera par l'impossible. Posons en effet que B est le cas pour tout C, et qu'il se peut que A ne soit pas le cas pour tel C : alors, nécessairement, il se [35] peut que A ne soit pas le cas pour tel B. Car si A était nécessairement le cas pour tout B, comme il a été posé que B est le cas pour tout C, alors A serait nécessairement le cas pour tout C (cela a été montré dans ce qui précède). Mais on a supposé qu'il se pouvait qu'il ne soit pas le cas pour tel C.
+
+[40a] Et lorsque les deux prémisses ont été prises indéterminées ou particulières, il n'y aura pas de déduction. La démonstration est la même que dans les cas précédents, et au moyen des mêmes termes.
+
+
+
+
+
+Chapitre 22
+
+
+Troisième figure : une prémisse nécessaire et une prémisse contingente
+
+Si l'une des prémisses est nécessaire et l'autre contingente, [5] alors, lorsque les termes sont affirmatifs, la déduction sera toujours une déduction du il se peut que — ; et lorsque l'une des propositions est affirmative et l'autre négative, si c'est l'affirmative qui est nécessaire, il y aura déduction de il se peut que ce ne soit pas le cas, et si c'est la négative il y aura déduction de il se peut que — ainsi que de ce n'est pas le cas. Mais il n'y aura pas de déduction de [10]nécessairement ce n'est pas le cas, pas plus qu'il n'y en a dans les autres figures.
+
+
+
+Posons d'abord que les termes sont affirmatifs, c'est-à-dire que A est nécessairement le cas pour tout C et qu'il se peut que B soit le cas pour tout C. Puisque, donc, il est nécessaire que A soit le cas pour tout C, et qu'il se peut que C soit le cas pour tel B, alors A aussi [15] pourra être le cas pour tel B sans être effectivement le cas : car telle était la situation dans la première figure. On le montrera de la même manière si on pose que BC est nécessaire et AC contingent.
+
+Posons maintenant que l'une est affirmative et l'autre négative, et que c'est l'affirmative qui est nécessaire : c'est-à-dire posons qu'il se peut que A ne soit le cas [20] pour aucun des C et que B est nécessairement le cas pour tout C. Alors on aura à nouveau la première figure. Et de fait la prémisse négative indique que « cela se peut » ; on voit donc que la conclusion sera contingente : car lorsque, dans la première figure, les prémisses se trouvent dans cette disposition, la conclusion aussi, nous l'avons vu, est [25] contingente.
+
+Si c'est la prémisse négative qui est nécessaire, la conclusion sera aussi bien qu'il est possible que ce ne soit pas le cas pour tel B ou que ce n'est pas le cas pour tel B. En effet, posons que nécessairement A n'est pas le cas pour C et qu'il se peut que B soit le cas pour tout C. En convertissant, donc, la prémisse affirmative BC, on aura la première figure, avec la prémisse [30] négative nécessaire. Or lorsque les prémisses sont ainsi disposées, il s'ensuit à la fois, avons-nous dit, que A peut ne pas être le cas pour tel C et que <de fait> il n'est pas le cas ; de sorte que nécessairement A n'est pas le cas pour tel B.
+
+Lorsque l'on place la négative du côté du petit terme, alors, si cette proposition est contingente, il y aura déduction par conversion de la prémisse, [35] comme dans les exemples précédents ; et si elle est nécessaire, il n'y en aura pas : de fait, il faut nécessairement et que cela puisse être le cas pour tous et que cela puisse n'être le cas pour aucun.
+
+Termes :
+
+– pour « c'est le cas pour tous » : {sommeil, chevalendormi, homme} ;
+
+– pour « ce n'est le cas pour aucun » : {sommeil, chevaléveillé, homme}.
+
+
+
+Il en ira de même si l'un des deux termes est universel et l'autre [40] particulier par rapport au moyen (en effet, s'ils sont tous deux affirmatifs [40b] il y aura déduction de « cela se peut » et non de « c'est le cas »), et aussi lorsque l'on prend l'un des deux négatif et l'autre affirmatif, le terme affirmatif étant nécessaire.
+
+Lorsque c'est le terme négatif qui est nécessaire, la conclusion établira aussi que ce n'est pas le cas. On aura en effet [5] le même mode de démonstration que lorsque les termes sont universels. Car il est nécessaire que les déductions soient achevées au moyen de la première figure, de sorte qu'il est nécessaire que la conséquence soit exactement la même que dans ces cas-là.
+
+Lorsque l'on met la négative, prise universellement, du côté du petit extrême, alors, lorsqu'elle [10] est contingente, il y aura déduction par conversion, et lorsqu'elle est nécessaire, il n'y aura pas de déduction. On le montrera de la même façon que dans le cas des propositions universelles, et au moyen des mêmes termes.
+
+On voit donc, dans cette figure aussi, quand et comment il y aura déduction, et quand ce sera une déduction de il se peut que — et quand ce sera de c'est le cas. [15] Et il est clair aussi que toutes ces déductions sont imparfaites, et qu'elles sont achevées au moyen de la première figure.
+
+
+
+
+
+Chapitre 23
+
+
+Toutes les déductions sont obtenues au moyen des figures exposées ci-dessus
+
+Il est donc clair, d'après ce qui a été dit, que les déductions qui ont lieu dans ces figures sont achevées au moyen des déductions universelles de la première figure et qu'elles se laissent ramener à celles-ci. [20] Que toute déduction, sans exception, est dans ce cas, ce sera désormais manifeste, dès lors qu'on aura démontré que toute déduction est obtenue au moyen de l'une de ces figures.
+
+C'est que, nécessairement, toute démonstration et toute déduction établit soit que quelque chose est le cas, soit que ce n'est pas le cas, et cela ou bien universellement [25] ou bien de façon partielle, et en outre ou bien par déduction directe ou bien à partir d'une hypothèse (la réduction à l'impossible étant une partie de la déduction à partir d'une hypothèse). Présentons d'abord le cas des déductions directes et, lorsque nous aurons montré ce qu'il en est de celles-ci, ce sera clair aussi pour les réductions à l'impossible et pour les déductions à partir d'une hypothèse en général.
+
+
+
+
+Cas des déductions directes
+
+[30] En effet, s'il faut déduire A à propos de B (soit qu'il est le cas, soit qu'il n'est pas le cas), il faut nécessairement prendre une prémisse énonçant quelque chose à propos de quelque chose. Si donc on prend celle qui énonce A à propos de B, on aura posé dès le départ <la conclusion visée>.
+
+Si on prend celle qui l'énonce à propos de C, cependant que C n'est énoncé à propos de rien, ni quoi que ce soit à son sujet, ni un autre terme à propos de A, il n'y aura pas de [35] déduction : car il n'y a rien qui suive nécessairement du fait de poser un seul terme à propos d'un seul autre ; de sorte qu'il faut introduire une seconde prémisse.
+
+Si on en pose une qui énonce A à propos d'un autre terme, ou un autre terme à propos de A, ou encore un terme différent à propos de C, rien n'empêche certes qu'il y ait une déduction ; cependant elle ne concernera pas B en raison des prémisses qui auront été posées. [40] De même lorsque C est le cas pour un second terme, celui-ci pour un autre et celui-là pour encore un autre terme, sans que [41a] cela se relie à B, il n'y aura pas non plus de déduction au sujet de B dans un tel cas.
+
+En fait, c'est une règle générale qu'il n'y aura jamais de déduction énonçant un terme à propos d'un autre si on ne prend pas un certain terme intermédiaire qui se trouve avec l'un et avec l'autre dans une certaine relation prédicative déterminée. Car la [5] déduction, considérée en elle-même, résulte de prémisses ; la déduction qui porte sur tel objet particulier résulte de prémisses qui concernent cet objet, et la déduction qui établit ceci à propos de cela résulte de prémisses qui concernent ceci dans sa relation à cela. Or il est impossible de poser une prémisse qui concerne B sans prédiquer ou sans nier quelque chose à son sujet ; et encore de poser des prémisses qui concernent A dans sa relation à B sans [10] poser quelque chose qui leur soit commun et en se contentant d'attribuer ou de nier certains termes particuliers à propos de chacun séparément. De sorte qu'il faut poser un certain terme intermédiaire entre les deux, qui fera le lien entre les prédications, s'il doit y avoir une déduction établissant ceci à propos de cela.
+
+Si donc il est nécessaire de prendre un terme commun en relation avec l'un et l'autre et s'il est possible de le faire de trois façons (car on peut énoncer A à propos de C et C à propos [15] de B, ou bien énoncer C à propos de l'un et de l'autre, ou l'un et l'autre à propos de C), et si ce sont là les figures qu'on a exposées, on voit que toute déduction se fait nécessairement par l'une de ces figures. Car le même argument vaut également si l'on relie A à B par l'intermédiaire de termes plus nombreux : en effet, on aura aussi bien la même figure [20] dans le cas de termes multiples.
+
+Que les déductions directes, donc, se font par les figures que l'on a exposées jusqu'ici, on le voit.
+
+
+
+
+Cas des réductions à l'impossible
+
+Que celles qui réduisent à l'impossible se feront elles aussi par ces figures, ce sera clair d'après ce qui suit.
+
+En effet, toutes celles qui aboutissent à leur conclusion par l'impossible déduisent d'une part la proposition fausse ; quant à ce <qu'elles se proposent> [25] au départ, elles l'établissent à partir d'une hypothèse1, lorsqu'une conséquence impossible s'ensuit une fois qu'on a posé la contradictoire. Par exemple on établit que la diagonale est incommensurable parce qu'une fois qu'on a supposé qu'elle est commensurable, un nombre impair se trouve égal à un nombre pair. Qu'un nombre impair se trouve être égal à un nombre pair, donc, on le déduit ; alors qu'on montre à partir d'une hypothèse que la diagonale est incommensurable, [30] parce qu'une proposition fausse résulte de la contradictoire. Or c'est cela, a-t-on dit, la déduction par l'impossible : établir quelque chose d'impossible à partir de l'hypothèse posée au départ.
+
+De sorte que, puisqu'une déduction directe du faux se trouve contenue dans les arguments qui réduisent à l'impossible, cependant que ce <qu'on se proposait> au départ est établi par hypothèse, et puisque [35] nous avons dit précédemment que les déductions directes sont atteintes par les figures en question, on voit que les déductions par l'impossible se feront par ces figures. Et il en va de même pour toutes les autres déductions qui reposent sur une hypothèse ; car dans toutes il y a d'une part une déduction visant une forme modifiée <de la thèse à établir>, et [40] d'autre part ce <qu'on se propose> au départ est atteint au moyen d'un accord ou en général d'une hypothèse. [41b] Or si cela est vrai, alors nécessairement toute démonstration et toute déduction se font par les trois figures que l'on a exposées précédemment. Et, ceci étant établi, il est clair que toute déduction est achevée au moyen de la première figure et [5] se ramène aux déductions universelles contenues dans celle-ci.
+
+
+
+
+
+Chapitre 24
+
+
+Relation entre la nature des prémisses et la conclusion
+
+En outre, il faut que dans toute déduction l'un des termes soit affirmatif, et que l'universel s'y trouve présent ; car sans l'universel ou bien il n'y aura pas de déduction, ou bien elle ne portera pas sur ce qui était proposé, ou alors on postulera dès le départ. En effet, admettons que l'on ait proposé <de montrer> que la musique est un plaisir honorable : [10] si donc on estime que « le plaisir est honorable », sans préciser « tout plaisir », il n'y aura pas de déduction : si on estime que c'est « un certain plaisir », alors, s'il s'agit d'un autre plaisir, ce n'est pas pertinent pour la conclusion proposée, et si c'est ce plaisir lui-même, on pose ce qui est en question.
+
+Cela se voit encore mieux avec les figures géométriques, par exemple que dans un triangle isocèle les angles à la base [15] sont égaux. Soit A et B les lignes menées vers le centre. Si donc on prend comme prémisse que l'angle AC est égal à l'angle BD sans admettre comme une vérité générale que les angles des demi-cercles sont égaux ; et encore que l'angle C est égal à l'angle D sans poser en outre que les angles d'un <même> segment de cercle sont toujours égaux, <on postulera ce qui est en question>. Ensuite : « si des angles entiers, qui sont égaux, on retranche des angles égaux, [20] les angles restants E et F seront égaux » : on le postulera dès le départ si on ne pose pas que, lorsque de quantités égales on retranche des quantités égales, les restes seront égaux.
+
+On voit donc qu'il faut que l'universel soit présent dans toute déduction et que l'universel se démontre à partir de termes tous universels, alors que le particulier se démontre de l'une et l'autre façon ; de sorte que, [25] si la conclusion est universelle, il est nécessaire que les termes soient universels eux aussi, alors que si les termes sont universels, il se peut que la conclusion ne soit pas universelle.
+
+Il est clair aussi que dans toute déduction il faut nécessairement que les deux prémisses, ou l'une d'elles, soient du même type que la conclusion : je veux dire, non seulement en ce qu'elle sera affirmative [30] ou négative, mais encore en ce qu'elle sera nécessaire, factuelle ou contingente ; et il faut considérer encore les autres types de prédications1.
+
+
+
+
+Conclusion générale
+
+On voit donc à la fois quand il y aura, absolument parlant, une déduction et quand il n'y en aura pas, et quand ce sera une déduction en puissance et quand elle sera complète ; et aussi que, lorsqu'il y a déduction, les termes doivent nécessairement être disposés de l'une [35] des façons que l'on a dites.
+
+
+
+
+
+Chapitre 25
+
+
+Nombre des conclusions, nombre des termes et nombre des prémisses
+
+Il est clair aussi que toute démonstration se fera au moyen de trois termes et pas davantage, lorsqu'on n'obtient pas la même conclusion en passant par des termes différents à chaque fois, par exemple lorsqu'on arrive à E par A et B et par C et D, ou par A et B, A et C et B et C (car rien n'empêche qu'il y ait plusieurs moyens termes [40] entre les mêmes extrêmes) ; lorsque c'est le cas, il n'y a pas une, mais [42a] plusieurs déductions. Ou encore lorsque chacune des deux <propositions> A et B est obtenue par déduction, par exemple A au moyen de D et E, et B à son tour au moyen de F et H, ou bien lorsque l'une est obtenue par une induction et l'autre par une déduction. Mais de cette façon aussi il y a plusieurs déductions, car il y a plusieurs [5] conclusions, à savoir A, B et C.
+
+Si au contraire il n'y en a pas plusieurs mais une seule, alors il se peut que dans ce cas on obtienne la même conclusion au moyen de termes plus nombreux ; mais de la façon dont on obtient C au moyen de A et B, c'est impossible.
+
+Admettons en effet que E a été conclu à partir de A, B, C et D. Donc il faut nécessairement que l'un d'eux ait été posé en relation avec un autre [10] et que l'un soit comme le tout, l'autre comme une partie. Car cela a été établi précédemment : lorsqu'il y a déduction, il est nécessaire que certains des termes soient disposés ainsi. Admettons donc que ce soit A qui est dans cette relation avec B. Donc il y a une certaine conclusion qui en résulte : celle-ci est donc soit E, soit l'un des deux <termes> C et D, soit quelque chose d'autre, distinct de ces trois-là. Or si c'est E, alors la déduction de E résulte uniquement [15] de A et B. Et si C et D sont dans une relation telle que l'un est comme le tout et l'autre comme une partie, alors il y aura aussi quelque chose qui résulte d'eux, et ce sera ou bien E, ou bien l'un des deux <termes> A et B, ou bien quelque chose d'autre, distinct de ces trois-là. Et si c'est E ou l'un des deux <termes> A et B, ou bien il y aura plusieurs déductions, ou bien on se trouve dans le cas où on obtient la même conclusion au moyen [20] de plusieurs jeux de termes (comme nous avons vu que cela se peut). Si c'est quelque chose d'autre distinct de ces trois-là, il y aura plusieurs déductions sans lien entre elles. Et si C n'est pas par rapport à D dans une relation telle qu'ils produisent une déduction, alors on les aura posés pour rien, à moins que ce ne soit en vue d'une induction, d'une manœuvre de dissimulation, ou de quelque autre chose de ce genre.
+
+Et si, de A et B, [25] il ne résulte pas E mais quelque autre conclusion, cependant que de C et D il résulte ou bien l'un de ces deux-là ou bien quelque chose d'autre, distinct d'eux, alors il en résulte plusieurs déductions, qui d'ailleurs ne donnent pas la conclusion proposée, puisqu'on avait posé qu'il s'agissait de déduire E. Et si de C et D il ne résulte aucune déduction, il en résulte qu'on les aura posés pour rien et [30] que la déduction ne conclut pas ce qui était proposé au départ. De sorte qu'on voit bien que toute démonstration et toute déduction se feront au moyen de trois termes seulement.
+
+
+
+Une fois que cela est manifeste, il est clair également qu'elles se feront à partir de deux prémisses et pas davantage (car trois termes donnent deux prémisses), à moins que l'on n'ajoute quelque chose de plus, comme on l'a dit dans l'exposé initial, [35] en vue de donner aux déductions une forme achevée. On voit donc que si, dans un argument déductif, les prémisses par lesquelles on obtient la conclusion principale ne sont pas en nombre pair (en notant bien qu'il est nécessaire de compter certaines des conclusions préliminaires comme des prémisses), cet argument n'est pas concluant, ou alors on a demandé plus de choses qu'il n'était nécessaire en vue de sa [40] thèse.
+
+
+
+[42b] Donc en comptant les prémisses au sens strict du mot, toute déduction résultera d'un nombre pair de prémisses et d'un nombre impair de termes (car le nombre des termes est supérieur d'une unité à celui des prémisses), et le nombre des conclusions sera la moitié de celui des prémisses ; [5] mais lorsqu'on atteint la conclusion au moyen de déductions préliminaires ou de plusieurs moyens termes en série continue, par exemple AB au moyen de C et de D, de la même façon le nombre des termes excédera d'une unité celui des prémisses. En effet, le terme additionnel sera posé ou bien à l'extérieur ou bien à l'intérieur ; mais dans les deux cas il en résulte que les intervalles seront moins nombreux d'une unité [10] que les termes ; or les prémisses sont en nombre égal à celui des intervalles.
+
+Cependant les prémisses ne seront pas toujours en nombre pair et les termes en nombre impair ; mais alternativement, lorsque les prémisses seront en nombre pair les termes seront en nombre impair, et lorsque les termes seront en nombre pair les prémisses seront en nombre impair. Car en même temps qu'on ajoute un terme, à quelque endroit qu'on l'ajoute, on ajoute une prémisse ; de sorte que, [15] puisque les unes étaient en nombre pair et les autres en nombre impair, il faut nécessairement que cela alterne lorsqu'on procède à la même addition de part et d'autre. Mais les conclusions n'auront plus la même relation ni avec les termes ni avec les prémisses ; car lorsqu'on ajoute un seul terme on ajoute des conclusions en nombre inférieur d'une unité à celui des termes déjà posés, car c'est seulement [20] par rapport au dernier terme que cette addition ne produit pas de conclusion nouvelle, alors qu'elle en produit par rapport à tous les autres. Ainsi, si l'on ajoute à la série ABC le terme D, on ajoute du même coup deux conclusions, l'une par rapport à A et l'autre par rapport à B ; même chose dans les autres cas. Et même lorsqu'il est inséré à l'intérieur de la série, cela se passera de la même façon, car c'est seulement par rapport à un seul terme qu'il ne produira pas [25] de conclusion nouvelle. De sorte que les conclusions seront beaucoup plus nombreuses, et que les termes, et que les prémisses.
+
+
+
+
+
+Chapitre 26
+
+
+Quels problèmes sont plus faciles ou plus difficiles
+
+Et puisque nous savons sur quoi portent les déductions, c'est-à-dire quelle sorte de proposition est déductible dans chacune des figures et de combien de façons, nous pouvons aussi voir clairement quelle sorte de conclusion proposée est difficile et quelle sorte est facile à établir. Car [30] celle que l'on atteint dans un plus grand nombre de figures et par un plus grand nombre de cas est plus facile, et celle que l'on atteint dans un plus petit nombre de figures et par des cas moins nombreux est plus difficile à établir.
+
+Ainsi donc, l'affirmative universelle se démontre uniquement par la première figure et, dans celle-ci, d'une seule façon ; la négative se démontre à la fois par la première figure et par la figure intermédiaire [35] (d'une seule façon dans la première et de deux façons dans la figure intermédiaire). L'affirmative particulière se démontre par la première et par la dernière figure, d'une seule façon par la première et de trois façons par la dernière. Et la négative particulière se démontre dans toutes les figures, si ce n'est que dans la première elle se démontre une seule fois, alors que dans la figure intermédiaire [40] et dans la dernière elle se démontre, pour l'une de deux façons, et de trois façons pour l'autre.
+
+On voit [43a] donc que l'affirmative universelle est la plus difficile à établir et la plus facile à réfuter ; et en général les universelles sont plus faciles pour celui qui attaque que les particulières : c'est qu'elles sont réfutées aussi bien lorsque ce n'est le cas pour aucun X que lorsque ce n'est pas le cas pour tel X ; or, de ces deux propositions, « ce n'est pas le cas pour tel X » se démontre dans [5] toutes les figures, et « ce n'est le cas pour aucun X », dans les deux premières. Et il en va de même pour les propositions négatives : car ce qui a été proposé au départ est renversé aussi bien si c'est le cas « pour tout X » que « — pour tel X » : or cela se déduit, avons-nous dit, dans deux figures. Pour les propositions particulières, on ne les réfute que d'une seule façon, soit en montrant que c'est le cas pour tout X, soit que ce n'est le cas pour aucun. Pour celui qui doit les établir, en revanche, les particulières sont plus faciles : en effet [10] elles se démontrent dans des figures plus nombreuses et de plus nombreuses façons.
+
+
+
+En somme, il ne faut pas perdre de vue que l'on peut réfuter les unes par les autres, aussi bien les universelles par les particulières que celles-ci par les universelles, mais qu'il n'est pas possible d'établir les universelles par les particulières, alors que celles-ci peuvent l'être par celles-là. Et en même temps il est clair aussi que réfuter [15] est plus facile qu'établir.
+
+
+
+On voit donc clairement, d'après ce qui précède, comment est formée toute déduction, et par combien de termes et de prémisses, et quelles relations celles-ci ont entre elles ; et aussi quelle sorte de conclusion proposée est démontrée dans chaque figure, et quelle sorte est démontrée dans un plus grand ou dans un plus petit nombre de figures.
+
+
+
+
+
+Chapitre 27
+
+[20] Mais comment nous pourrons nous-mêmes disposer facilement de déductions en vue d'une conclusion donnée, et par quelle méthode nous poserons les principes pour chacune, c'est ce qu'il nous reste à dire désormais. Car sans doute il ne suffit pas de connaître théoriquement la formation des déductions, mais il faut avoir en plus la capacité d'en produire.
+
+
+Trois types de termes
+
+[25] Parmi tous les étants, certains sont tels qu'ils ne s'appliquent à rien de façon vraie et universellement (par exemple Cléon ou Callias, c'est-à-dire le sensible singulier), alors que d'autres peuvent s'appliquer à eux (et de fait, ils sont l'un et l'autre homme et animal). D'autres étants s'appliquent eux-mêmes à d'autres, mais il n'y a pas avant eux d'autres termes qui s'appliquent à eux ; les autres s'appliquent à d'autres [30] cependant que d'autres s'appliquent à eux : par exemple homme s'applique à Callias et animal à l'homme. Que certains étants sont de nature à n'être dits de rien, en tout cas, c'est clair. En effet, pratiquement chacun des sensibles est tel qu'il ne s'applique à rien, si ce n'est par accident : [35] car nous disons quelquefois que cette forme blanche que voici est Socrate ou que celui qui approche est Callias. Qu'il y a aussi un arrêt quelque part en allant vers le haut, nous le dirons plus tard ; pour le moment, admettons-le comme un postulat.
+
+À propos de ces termes, il n'est pas possible de démontrer qu'un autre terme s'applique à eux (si ce n'est, peut-être, selon l'opinion), mais on peut démontrer que ceux-ci s'appliquent à d'autres ; et on ne peut pas non plus [40] démontrer que les singuliers ne s'appliquent pas à d'autres, mais on peut démontrer que d'autres s'appliquent à ceux-là. Quant aux étants qui sont entre les deux, il est clair qu'il est possible de démontrer cela à leur sujet dans les deux directions, car ils se diront de certains autres et d'autres termes se diront d'eux ; et pour l'essentiel les arguments et les recherches portent principalement sur eux.
+
+
+
+
+Les listes canoniques
+
+[43b] Pour se procurer les prémisses qui concernent chaque terme, il faut présenter les données de la façon suivante : en posant d'abord la chose elle-même, ses définitions et tout ce qui lui est propre ; puis, après cela, tout ce qui est impliqué par cette chose, et encore tout ce qui l'implique, et tout ce qui ne [5] peut pas être le cas pour elle. Ce pour quoi elle ne peut pas être le cas, il n'est pas nécessaire de l'inclure dans la présentation, du fait que la proposition négative se convertit.
+
+Parmi les termes que cette chose implique, il faut encore distinguer ce qui est compris dans son ce que c'est et les termes qui lui sont propres, et ceux qui s'appliquent à elle comme des accidents ; et, parmi ceux-ci, lesquels s'appliquent à elle selon l'opinion et lesquels selon la vérité. Car si l'on dispose de termes de cette sorte [10] en grand nombre, on atteindra d'autant plus vite la conclusion ; et plus ils seront vrais, plus on pourra démontrer.
+
+Il faut faire la liste, non pas de ce qu'implique telle chose particulière, mais bien la chose dont on parle dans toute son étendue : rechercher, par exemple, non pas ce qui est impliqué dans tel homme, mais ce qui est impliqué dans tout homme. Car la déduction se fait grâce à des prémisses universelles ; si donc on ne fait pas cette distinction, [15] on ne saura pas bien si la prémisse est universelle, alors qu'en la faisant ce sera manifeste. De la même façon, il faut faire la liste des termes qui impliquent la chose dans toute leur extension, pour la raison qu'on vient de dire. Mais quant au terme lui-même qui est impliqué dans un autre, il n'y a pas lieu de poser qu'il est pris dans toute son extension (je veux dire, par exemple, qu'il n'y a pas lieu de dire que « tout animal » suit de homme, ou « toute science » de musique), mais seulement qu'il est impliqué, sans plus, de la même façon que nous le faisons dans les prémisses. [20] De fait, l'autre façon de dire (par exemple que « tout homme est tout animal » ou que « la justice est tout bien ») serait inutile et impraticable. Le terme que quelque chose implique, c'est à son sujet que l'on dit « tout — ».
+
+Lorsque le sujet à partir duquel on doit prendre les termes qu'il implique est contenu dans quelque autre terme, il n'est pas nécessaire d'inclure dans la liste, à ce niveau, les termes qui sont impliqués ou non par ce terme universel, [25] car ils ont déjà été pris au niveau de celui-là (puisque tout ce qui est impliqué dans animal suit également d'homme, et de même tout ce qui n'est pas le cas pour animal) ; mais il faut, pour chaque terme, prendre les implications qui lui sont propres. En effet, il existe certains prédicats qui sont propres à l'espèce indépendamment du genre, car nécessairement il doit exister certains prédicats propres aux espèces différentes. Et, bien sûr, il ne faut pas non plus inclure dans la liste relative au terme universel ce qui est impliqué dans un terme qui est contenu en lui, [30] par exemple pour l'animal, ce qui implique homme : car il est nécessaire, si animal est impliqué dans homme, qu'il soit également impliqué dans tous ceux-là, et ces termes sont mieux à leur place dans la série de homme.
+
+Il faut prendre aussi ce qui est impliqué en règle générale et ce qui implique en règle générale. Car pour les conclusions proposées qui valent en règle générale, les déductions se font à partir [35] de prémisses qui valent elles aussi en règle générale, soit toutes, soit certaines d'entre elles : car dans chaque cas, la conclusion est du même type que les principes.
+
+En outre, il ne faut pas inclure dans la liste les termes qui sont impliqués dans tous, car il n'y aura pas de déduction à partir d'eux ; pour quelle raison, cela apparaîtra dans la suite.
+
+
+
+
+
+Chapitre 28
+
+
+La découverte du moyen terme par la confrontation des listes canoniques
+
+Lorsque donc on a l'intention d'établir quelque chose à propos d'un sujet pris dans son ensemble, [40] il faut examiner les sujets auxquels il arrive qu'on applique le terme à établir ; et, pour le sujet auquel on doit l'appliquer, tous ceux qui sont impliqués en lui. Car si un terme est identique dans ces deux groupes, alors nécessairement l'un des deux termes est le cas pour l'autre.
+
+Lorsqu'on veut établir non pas qu'il est le cas pour tout — mais pour tel —, il faut considérer ceux qui [44a] impliquent chacun des deux ; car si un terme de ces deux listes est le même, alors nécessairement il est le cas pour tel —.
+
+Lorsqu'il faut qu'il ne soit le cas pour aucun, il faut considérer, pour ce pour quoi cela ne doit pas être le cas, ce qu'il implique, et, pour ce qui ne doit pas être le cas, ce qui est incompatible avec lui. Ou symétriquement, pour ce pour quoi cela ne doit pas être le cas il faut considérer [5] ce qui est incompatible avec lui, et pour ce qui ne doit pas être le cas, ce qu'il implique. Si l'un de ces termes se trouve identique d'un côté ou de l'autre, il ne se peut pas que l'un des deux soit le cas pour l'autre : car on a tantôt une déduction de la première figure, tantôt une déduction de la figure intermédiaire.
+
+Et s'il faut que ce ne soit pas le cas pour tel X, il faut considérer, pour le terme pour lequel cela doit ne pas être le cas, ce qui l'implique, [10] et, pour le terme qui ne doit pas être le cas, ce qui est incompatible avec lui. Car si un terme de ces séries est le même, alors nécessairement ce n'est pas le cas pour tel X.
+
+
+
+Chacun des points que nous venons d'indiquer sera sans doute plus évident en les présentant comme suit :
+
+Appelons B les termes impliqués dans A, C ceux qui l'impliquent, et D ceux qui sont incompatibles avec lui ; et pour E, maintenant, [15] appelons F ceux qui sont le cas pour lui, G ceux qui sont impliqués dans lui, et H ceux qui sont incompatibles avec lui.
+
+A
+
+E
+
+
+
+(prédicat)
+
+(sujet)
+
+
+
+B
+
+ce que — implique
+
+F
+
+
+
+C
+
+ce qui implique —
+
+G
+
+
+
+D
+
+ce qui ne peut pas être le cas pour —
+
+H
+
+
+
+Si donc l'un des C est identique à l'un des F, nécessairement A est le cas pour tout E : car F est le cas pour tout E et A pour tout C, de sorte que A est le cas pour tout E.
+
+Si C et [20] G sont identiques, alors nécessairement A est le cas pour tel des E : car A est le cas pour C et E pour tout G.
+
+Si F et D sont identiques, A ne sera le cas pour aucun des E, moyennant une déduction préliminaire : car puisque la négative se convertit et que F est identique à D, A ne sera le cas pour aucun des F et F pour tout E.
+
+[25] Si maintenant B et H sont identiques, A ne sera le cas pour aucun des E, car B sera le cas pour tout A, mais ne sera le cas pour aucun des E (en effet, nous avons dit qu'il est identique à H et que H n'est le cas pour aucun des E).
+
+Si D et G sont la même chose, A ne sera pas le cas pour tel des E : car il ne sera pas le cas pour G puisqu'il n'est pas le cas pour D ; or G est sous [30] E ; de sorte que A ne sera pas le cas pour tel des E.
+
+Et si B est identique à G, il y aura une déduction par conversion. En effet E sera le cas pour tout A, car B est le cas pour A et E pour B (celui-ci, avons-nous dit, est identique à G) ; cependant que A ne sera pas nécessairement le cas pour tout E, mais nécessairement pour tel E du fait que la prémisse universelle se convertit [35] en une prémisse particulière.
+
+
+
+On voit donc que pour chaque problème, il faut examiner les listes que nous avons déterminées ci-dessus pour chacun des deux termes de la conclusion : car toutes les déductions s'obtiennent grâce à ces listes. Mais il faut considérer avant tout, aussi bien parmi les termes qui sont impliqués que parmi ceux qui impliquent, ceux qui sont premiers et les plus universels : par exemple, dans les listes pour [40] E, considérer KF1 plutôt que F seul, et dans celles de A, [44b] considérer KC plutôt que C seul. En effet, si A est le cas pour KF, alors il est aussi le cas pour F et pour E ; alors que s'il n'est pas impliqué dans celui-ci, il se peut qu'il soit impliqué dans F.
+
+Il faut examiner de la même façon les termes dans lesquels lui-même est impliqué : car s'il est impliqué par les premiers d'entre eux, il le sera aussi par ceux qui sont contenus dans [5] ceux-ci ; et s'il ne l'est pas par ceux-là, il est possible qu'il le soit par ceux qui sont inclus en eux.
+
+
+
+Par ailleurs, il est clair aussi que cette recherche se fait au moyen de trois termes et de deux prémisses, et que toutes les déductions se font au moyen des figures précédemment exposées.
+
+En effet, on établit que A est le cas pour tout E en posant un certain terme identique dans C et dans F. Or ce terme sera [10] le moyen, et les extrêmes seront A et E : on a donc la première figure.
+
+Et A est le cas pour tel E, lorsqu'on pose que C et G sont identiques : cela, c'est la dernière figure, car G devient moyen terme.
+
+A n'est le cas pour aucun E, lorsque D et F sont identiques : de cette façon on a la première figure et la figure intermédiaire : la première, parce que A n'est le cas pour aucun F (puisque la négative [15] se convertit) et F est le cas pour tout E ; la figure intermédiaire parce que D n'est le cas pour aucun A et est le cas pour tout E.
+
+Et A n'est pas le cas pour tel E, lorsque D et G sont identiques : cela, c'est la dernière figure, car A ne sera le cas pour aucun G, et E sera le cas pour tout G.
+
+On voit donc que toutes les déductions [20] se font au moyen des figures que l'on a exposées précédemment et qu'il n'est pas nécessaire de dresser la liste des termes qui sont impliqués dans tous, parce que aucune déduction n'est constituée au moyen de ceux-ci. Plus généralement, nous avons vu qu'il n'est pas possible d'établir une conclusion affirmative au moyen des termes impliqués, et qu'il n'est pas possible de réfuter à partir des termes impliqués par tous : car <pour qu'il y ait réfutation> il faut un terme qui soit le cas pour l'un et pas pour l'autre.
+
+
+
+[25] Et on voit que les autres recherches qu'on peut faire sur ces listes – par exemple si les termes impliqués par l'un et par l'autre sont identiques, ou ceux qui impliquent A et ceux qui sont incompatibles avec E, ou encore ceux qui sont incompatibles avec l'un et avec l'autre – sont inutiles pour produire une déduction, car il ne se produit pas de déduction par le moyen de ces termes.
+
+Si [30] en effet les termes impliqués (dans notre exemple : B et F) sont les mêmes, on obtient la figure intermédiaire avec des prémisses affirmatives.
+
+Si c'est ce qui implique A et ce qui est incompatible avec E (dans notre exemple : C et H), on a la première figure avec la prémisse du côté du petit terme négative.
+
+Et si ce sont les termes incompatibles avec l'un et avec l'autre (dans notre exemple : [35] D et H), on a deux prémisses négatives, soit dans la première figure, soit dans la figure intermédiaire. Or, de ces façons, il n'y a aucun moyen d'avoir une déduction.
+
+On voit aussi que pour cet examen il faut prendre des termes qui sont susceptibles d'être identiques et non pas ceux qui sont de nature à être distincts ou contraires ; avant tout [40] parce que l'examen vise le moyen terme et que le moyen ne doit pas être pris distinct, [45a] mais identique ; ensuite parce que dans tous les cas où il y a quand même une déduction en posant des termes qui sont contraires ou incompatibles, cela se ramène toujours aux cas exposés précédemment, par exemple si B et F sont contraires ou s'il ne [5] se peut pas qu'ils soient le cas pour un même objet. En prenant ces termes, en effet, il y aura certes une déduction de ce que A n'est le cas pour aucun des E, mais ce ne sera pas à partir de ces termes eux-mêmes, mais de la façon que nous venons d'exposer. Car B sera le cas pour tout A et pour aucun E, de sorte que nécessairement B sera identique à tel des H.
+
+Et encore, si B et G ne peuvent pas être attribués [10] à un même terme, on peut déduire que A ne sera pas le cas pour tel des E. De cette façon, en effet, on aura la figure intermédiaire, car B sera le cas pour tout A et pour aucun E, de sorte que nécessairement B sera identique à tel des H ; car il n'y a aucune différence entre « B et G ne peuvent pas être le cas <en même temps> pour un même terme » et « B est identique à tel [15] des H » ; car on a pris tous les termes incompatibles avec E.
+
+On voit donc qu'à partir de l'examen de ces relations-là on n'obtient pas de déduction, et qu'il est nécessaire, si B et F sont contraires, que B soit identique à l'un des H et que la déduction [20] résulte de cela. En fait, s'il arrive que ceux qui recherchent de cette façon envisagent une autre voie que celle qui est nécessaire, c'est qu'ils ne s'aperçoivent pas de cette identité des B et des H.
+
+
+
+
+
+Chapitre 29
+
+
+Cas de la réduction à l'impossible
+
+Les déductions qui réduisent à l'impossible se comportent de la même façon que les déductions directes. Car elles aussi sont constituées [25] à partir des termes impliqués par l'un et l'autre extrême et de ceux qui les impliquent. Et il faut faire attention aux mêmes choses dans les deux cas. Car ce qu'on établit par une démonstration directe, il est possible également de le déduire par l'impossible au moyen des mêmes termes, et ce que l'on établit par l'impossible s'établit aussi par démonstration directe.
+
+Par exemple, que A n'est le cas pour aucun des E : posons qu'il soit le cas pour tel E. Donc, puisque [30] B est le cas pour tout A, et A pour tel E, B sera le cas pour tel des E ; mais on avait posé qu'il n'était le cas pour aucun.
+
+Ou encore, que A est le cas pour tel E : si A n'est le cas pour aucun des E, et E pour tout G, A ne sera le cas pour aucun des G ; mais on avait posé qu'il était le cas pour tout G.
+
+Même chose pour les autres conclusions proposées : toujours et dans tous les cas [35] la démonstration par l'impossible se fait à partir des termes qui sont impliqués par l'un et l'autre terme et de ceux qui les impliquent.
+
+
+
+On procédera au même examen pour chaque conclusion proposée, que l'on veuille conclure de façon démonstrative ou réduire à l'impossible ; car les deux démonstrations se feront à partir des mêmes termes.
+
+Par exemple, s'il a été établi que A n'est le cas pour aucun E, <montrer> qu'il s'ensuit également [40] que B est le cas pour tel des E, ce qui précisément est impossible. Si l'on pose que B n'est le cas pour aucun E cependant qu'il est le cas pour tout A, on voit [45b] que A ne sera le cas pour aucun E.
+
+Si maintenant on a déduit directement que A n'est le cas pour aucun E, on établira par réduction à l'impossible qu'il n'est le cas pour aucun en partant de la supposition qu'il est le cas pour E ; même chose dans les autres cas. Dans tous, en effet, il est nécessaire de prendre [5] un certain terme commun, différent de ceux qui ont été supposés, par rapport auquel on fera la déduction du faux, de telle sorte que, en renversant cette prémisse cependant que l'autre demeure semblable, il en résultera une déduction directe par les mêmes termes. Car la déduction directe diffère de la réduction à l'impossible par le fait que dans la déduction directe [10] les deux prémisses sont posées conformément à la réalité alors que dans la réduction à l'impossible l'une des deux est posée de façon fausse.
+
+Tout cela, à vrai dire, sera plus évident grâce à ce qu'on dira plus loin, lorsque nous traiterons de l'impossible. Pour le moment, contentons-nous d'avoir montré qu'il faut considérer les mêmes termes lorsqu'on [15] veut démontrer déductivement et lorsqu'on veut réduire à l'impossible.
+
+
+
+
+Autres déductions à partir d'une hypothèse
+
+Quant aux autres déductions à partir d'une hypothèse, par exemple celles qui se font par substitution ou selon une certaine qualification, l'examen portera sur les sujets sous-jacents, non pas sur ceux qui sont posés au départ mais sur ceux qu'on leur aura substitués ; cependant la façon de considérer sera la même. Mais il faut examiner [20] les déductions à partir d'une supposition et distinguer de combien de façons elles se produisent.
+
+
+
+Chacune des conclusions proposées, donc, se démontre de cette façon ; mais il est possible de déduire certaines d'entre elles encore autrement : ainsi on peut déduire les universelles à partir de la considération du particulier moyennant une supposition.
+
+Si en effet les C et les G sont la même chose, et si on pose que [25] E est le cas seulement pour les G, alors A sera le cas pour tout E. Et encore, si les D et G sont identiques et si E se prédique seulement des G, il s'ensuit que A n'est le cas pour aucun des E. On voit donc qu'il faut considérer les choses aussi de cette façon.
+
+
+
+
+Conclusion d'ensemble : exhaustivité de la méthode proposée
+
+Il en va de même pour les propositions nécessaires et pour les contingentes ; l'examen est le même, et la déduction [30] du il se peut que — et celle du fait se feront par les mêmes termes quant à leur disposition. Dans le cas des contingentes, il faut poser également ce qui n'est pas le cas mais qui peut être le cas. Car on a montré que la déduction du contingent se fait aussi par ceux-ci ; et de même aussi dans le cas des autres [35] types de prédication.
+
+
+
+On voit donc, à partir de ce qui vient d'être dit, non seulement qu'il est possible de constituer toutes les déductions par cette méthode, mais aussi qu'il est impossible d'en constituer par une autre voie. En effet, il a été établi que toute déduction est constituée par l'une des figures dont on a parlé auparavant, [40] or il n'est pas possible de les construire autrement qu'au moyen des termes impliqués et de ceux qui impliquent chaque terme. Car c'est d'eux [46a] que proviennent les prémisses et la détermination du moyen, de sorte qu'il n'est pas possible non plus qu'une déduction soit constituée au moyen d'autres termes.
+
+
+
+
+
+Chapitre 30
+
+
+Réflexions épistémologiques sur cette méthode
+
+La voie est donc la même dans tous les domaines, aussi bien en philosophie que dans tout art et dans toute connaissance apprise. En effet, il faut [5] considérer avec attention, pour chacun des deux termes, ceux qui sont le cas pour lui et ceux pour lesquels il est le cas, en posséder le plus possible et les examiner au moyen des trois termes, de telle façon pour réfuter, de telle autre façon pour établir ; on démontre conformément à la réalité à partir de listes qui ont été établies conformément à la réalité, et, lorsqu'on veut établir des déductions dialectiques, à partir de prémisses [10] conformes à l'opinion.
+
+On a exposé de façon universelle les principes de la démonstration : de quelle façon ils sont disposés et de quelle façon il faut aller à leur recherche, afin que nous n'allions pas considérer tout ce qui est dit, ni examiner les mêmes termes pour établir et pour réfuter, pour établir à propos de tout ou de tel, ou pour réfuter [15] à propos de tout ou de tel ; au lieu de cela, on considérera un nombre restreint et déterminé de termes. <Il faut> aussi en dresser la liste pour chacun des étants, par exemple pour le bien, ou pour la science.
+
+
+
+
+Remarque : la plupart des principes viennent de l'expérience
+
+La plupart <des principes> sont propres à chaque domaine particulier. C'est pourquoi il revient à l'expérience de fournir les principes propres pour chaque sujet – je veux dire par exemple que c'est l'expérience astronomique qui donne les principes propres à la science [20] astronomique. Car une fois que l'on a suffisamment établi les phénomènes, c'est de cette façon que l'on a trouvé les démonstrations astronomiques ; et il en va de même pour chacun des autres arts ou sciences. C'est pourquoi, si l'on pose ce qui est le cas pour chaque chose, il est dès lors en notre pouvoir de faire apparaître aisément les démonstrations. En effet, si, dans notre enquête, nous ne laissons rien échapper des [25] prédicats qui sont véritablement le cas pour l'objet, alors nous serons à même, pour tout ce dont il y a démonstration, de trouver cette démonstration et de la donner ; et, là où il n'y a pas de démonstration, de mettre ce fait en évidence.
+
+On a donc dit de façon à peu près complète comment il faut choisir les prémisses ; et nous l'avons exposé en détail dans notre [30] traité sur la dialectique.
+
+
+
+
+
+Chapitre 31
+
+
+Critique de la diérèse platonicienne
+
+Que la division par les genres n'est qu'une petite partie de la méthode que nous exposons ici, il est facile de le voir. Car la division est en quelque sorte une déduction sans force. En effet, ce qu'il faut montrer, elle le postule, et ce qu'elle déduit, c'est toujours l'un des termes supérieurs. Mais au commencement, [35] aucun de ceux qui ont pratiqué cette méthode ne s'est aperçu de cela ; et ils entreprenaient de convaincre en partant de l'idée qu'il était possible qu'il existe une démonstration de l'essence et du ce que c'est. De sorte qu'ils ne se rendaient compte ni de ce qu'il est possible de déduire en divisant, ni que cela se pouvait de la façon que nous avons dite. Dans les démonstrations du moins, lorsqu'il faut déduire [40] que quelque chose est le cas, il faut que le moyen terme, grâce auquel la déduction a lieu, [46b] à la fois soit moins étendu et ne s'applique pas universellement au premier des termes extrêmes. Or la division entend faire le contraire, car elle prend l'universel comme moyen terme.
+
+En effet, soit en A animal, mortel en B et immortel en C, et homme – le terme [5] dont on doit saisir la notion – en D. On pose alors que tout animal est ou bien mortel ou bien immortel, c'est-à-dire que tout ce qui est A est soit B soit C. Ensuite, en continuant la division, on pose que l'homme est animal, de sorte qu'on pose que A est le cas pour D. Donc la déduction est que tout D sera ou bien B ou bien C, [10] de sorte qu'il faudra nécessairement que l'homme soit ou bien mortel ou bien immortel. Cependant il n'est pas nécessaire qu'il soit un animal mortel, mais c'est une chose que l'on demande d'admettre, alors que c'est cela qu'il aurait fallu déduire. Et à nouveau, en posant A = animal mortel, en B, pédestre, en C, sans pieds, et homme = D, on pose de la même façon [15] que A est soit dans B soit dans C (car tout animal mortel est soit pédestre soit sans pieds). Or A est le cas pour D (en effet, on a posé que l'homme est un animal mortel), de sorte qu'il est nécessaire que l'homme soit ou un animal pédestre ou un animal sans pieds ; cependant il n'est pas nécessaire qu'il soit pédestre, mais on l'a posé. Or c'est là, une fois encore, ce qu'il aurait fallu établir.
+
+[20] Pour ceux qui divisent toujours de cette façon, il en résulte qu'ils posent l'universel comme moyen terme, et comme termes extrêmes le terme à propos duquel il fallait montrer cela, et les différences. Mais ce qui est le but, à savoir de montrer que c'est cela qui est un homme (ou quel que soit l'objet de notre recherche), ils ne disent rien de clair d'où il résulterait que ce soit nécessaire. Et de fait, [25] ne voyant pas les solutions aisées qui sont possibles, ils parcourent en entier l'autre voie.
+
+
+
+Et il est clair que par cette voie il n'est pas possible de réfuter ni de déduire quelque chose à propos du propre ou de l'accident, ni à propos du genre, ni non plus dans les matières où l'on ignore s'il en est ainsi ou bien ainsi, par exemple si la diagonale est incommensurable.
+
+En effet, si on pose que toute [30] grandeur est soit commensurable soit incommensurable, et que la diagonale est une grandeur, on aura déduit que la diagonale est soit commensurable soit incommensurable. Si on postule qu'elle est incommensurable, on aura postulé ce qu'il fallait déduire. Il n'est donc pas possible de le montrer. En effet, le parcours est celui-ci (par lequel ce n'est pas possible) : être incommensurable ou commensurable = A, [35]grandeur = B, diagonale = C. On voit donc que cette façon d'examiner n'est pas appropriée à toute recherche, et que, pour celles auxquelles on croit qu'elle est plus particulièrement appropriée, elle est inefficace.
+
+
+
+À partir de quels éléments et de quelle façon sont formées les démonstrations, et quels sont les points qu'il faut prendre en considération pour chaque conclusion proposée, cela se voit [40] d'après ce qui précède.
+
+
+
+
+
+Chapitre 32
+
+Comment nous réduirons les déductions aux [47a] figures qui ont été exposées précédemment, c'est ce qu'il faudrait dire après cela, car c'est là ce qu'il nous reste encore à examiner. Car si nous pouvons à la fois connaître théoriquement la façon dont se produisent les déductions et avoir la capacité d'en trouver, et en outre analyser les déductions existantes dans les figures que nous [5] avons énumérées, nous aurons achevé notre programme initial. En même temps, ce que nous avons dit jusqu'ici se trouvera corroboré par ce que nous allons dire maintenant, et on verra encore plus clairement qu'il en est ainsi ; car tout ce qui est vrai doit s'accorder de bout en bout avec soi-même.
+
+
+Il faut dégager les prémisses
+
+[10] Il faut donc, tout d'abord, s'efforcer de dégager les deux prémisses de la déduction (car il est plus facile de diviser en grandes parties qu'en plus petites, et les composés sont plus grands que ce dont ils sont composés), puis voir laquelle est englobante et laquelle est partielle, y compris, si les deux n'ont pas été posées, en posant soi-même celle qui ne l'a pas été. Quelquefois [15] en effet, on avance l'universelle sans poser explicitement celle qui y est contenue, que ce soit en écrivant ou en interrogeant. Ou bien on avance celles-ci, mais on laisse de côté celles grâce auxquelles elles sont concluantes, cependant qu'on interroge inutilement sur d'autres points. Il faut donc regarder si l'on a posé quelque chose de superflu et si on a laissé de côté tel des éléments indispensables ; et <en ce cas> poser celui-ci et [20] supprimer celui-là, jusqu'à ce qu'on en arrive aux deux prémisses : car sans elles il n'est pas possible de réduire les arguments <aux figures> lorsqu'on a posé les questions de cette façon.
+
+
+
+
+Du sentiment de nécessité à la reconnaissance précise d'une forme déductive
+
+Pour certains, il est facile de voir ce qui leur manque, alors que pour d'autres le défaut passe inaperçu et on pense qu'ils sont déductifs parce que, des propositions que l'on a posées, il résulte quelque chose de nécessaire.
+
+Par exemple, si on posait qu'une substance n'est pas supprimée lorsque l'on [25] supprime quelque chose qui n'est pas substance, alors que lorsqu'on supprime les éléments constituants, ce qui en est constitué est détruit lui aussi. Une fois posées ces hypothèses, il s'ensuit nécessairement que ce qui est partie d'une substance est substance ; pourtant on ne l'a pas déduit de ce que l'on a posé, mais il manque des prémisses. Ou encore, si l'on pose que si <un certain être> est homme, il est nécessairement animal, et si c'est un animal, c'est une substance ; alors si c'est un [30] homme c'est nécessairement une substance ; mais cela, on ne l'a pas encore déduit : car les prémisses ne sont pas disposées comme nous l'avons dit.
+
+Dans des cas de cette sorte, nous nous trompons parce que quelque chose de nécessaire résulte de ce qui a été posé, et que la déduction elle aussi est nécessaire. Or la nécessité s'étend au-delà de la déduction ; car la déduction est toujours nécessaire, [35] mais ce qui est nécessaire n'est pas toujours une déduction. De sorte que ce n'est pas parce que quelque chose s'ensuit lorsque certaines propositions ont été posées, qu'il faut tout de go entreprendre de le ramener aux figures. Mais il faut d'abord saisir les deux prémisses, puis les décomposer en leurs termes de cette façon, à savoir en posant comme moyen entre les termes de la conclusion celui qui est énoncé dans l'une et l'autre prémisse. En effet, dans toutes les figures, il est nécessaire que [40] le moyen terme soit présent dans les deux prémisses.
+
+Si donc [47b] le moyen terme est prédiqué de quelque chose et se voit prédiquer quelque chose, ou s'il est lui-même prédiqué cependant qu'un autre terme est nié de lui, on aura la première figure ; lorsqu'il est prédiqué ou nié d'autre chose, la figure moyenne ; et lorsque d'autres termes sont prédiqués de lui, ou que l'un est nié et [5] l'autre affirmé de lui, la dernière figure. Car c'est ainsi, avons-nous dit, que le moyen terme est situé dans chacune des figures. Même chose lorsque les prémisses ne sont pas universelles, car la caractéristique du moyen terme est la même.
+
+On voit donc que, dans un argument où le même terme n'est pas énoncé à plusieurs reprises, il n'y a pas de déduction, car on n'a pas posé de moyen terme. Et puisque nous avons établi à quelle sorte de conclusion proposée [10] on parvient dans chaque figure, et dans laquelle on a l'universel, et dans laquelle le particulier, on voit qu'il n'y a pas lieu d'examiner toutes les figures, mais <seulement> celle qui est appropriée pour chaque conclusion proposée. Pour celles auxquelles on parvient de plusieurs façons, on reconnaîtra la figure d'après la position du moyen terme.
+
+
+
+
+
+Chapitre 33
+
+
+Erreurs dues à la disposition extérieure des termes
+
+[15] Il arrive souvent que l'on se trompe au sujet des déductions, à cause de la nécessité, comme on l'a dit précédemment ; parfois aussi du fait d'une ressemblance dans la position des termes : c'est un point que nous ne devons pas perdre de vue.
+
+Ainsi, si A se dit de B et B de C ; car dans cette disposition des termes on pourrait croire qu'il y a [20] déduction. Mais il n'en résulte rien de nécessaire, ni une déduction. En effet, soit A = être toujours, B = Aristomène-connaissable, et C = Aristomène. Alors il est vrai que A est le cas pour B, car Aristomène est toujours connaissable. Mais B aussi est le cas pour C, car Aristomène est Aristomène-connaissable. [25] Mais A n'est pas le cas pour C, car Aristomène est mortel. En effet, nous l'avons vu, il n'y a pas de déduction dans cette disposition des termes, mais il fallait prendre la prémisse AB de façon universelle. Or ceci est faux, à savoir qu'Aristomène-connaissable, tout entier, est toujours le cas, alors qu'Aristomène est mortel.
+
+Ou encore, [30] posons que C = Miccalos, B = Miccalos-instruit, et A = disparaître demain. Eh bien, il est vrai d'appliquer B à C : car Miccalos est Miccalos-instruit. Mais il est vrai aussi d'appliquer A à B : car demain Miccalos l'homme instruit peut disparaître. Mais A, lui, n'est pas vrai de C. Le cas [35] est en réalité le même que précédemment : il n'est pas vrai que Miccalos-instruit, tout entier, disparaîtra demain ; or si on ne pose pas cela, avons-nous dit, il n'y a pas de déduction. Cette erreur, donc, tient à peu de chose : nous donnons notre accord comme si cela ne faisait aucune différence de dire que ceci est le cas pour cela, ou que [40] ceci est le cas pour cela tout entier.
+
+
+
+
+
+Chapitre 34
+
+
+Erreurs de catégorie
+
+Souvent, il nous arrivera [48a] de nous tromper parce que nous n'aurons pas bien mis en évidence les termes dans <l'énoncé de> la prémisse.
+
+Par exemple si A est la santé, B la maladie et C l'homme. En effet, il est vrai de dire que A ne peut être le cas pour aucun B (car santé n'est le cas [5] pour aucune maladie), et en outre que B est le cas pour tout C (car tout homme est susceptible de maladie). On pourrait donc penser qu'il s'ensuit que la santé ne pourrait être le cas pour aucun homme. La cause de cela est qu'on n'a pas bien mis les termes en évidence au moment de les exprimer ; puisque, si on les remplace par les sujets qui sont dans ces dispositions, [10] il n'y aura pas de déduction : ainsi si au lieu de santé on avait pris bien portant, et au lieu de maladie, malade. Car il n'est pas vrai de dire qu'il est impossible que bien portant puisse être le cas pour celui qui souffre d'une maladie, et si on ne pose pas cela, il n'y aura pas de déduction, si ce n'est du contingent. Cette déduction-là n'est pas impossible, car il se peut que la santé [15] ne soit le cas pour aucun homme.
+
+Et une erreur semblable se rencontre à nouveau dans le cas de la figure intermédiaire ; car la santé ne peut être le cas pour aucune maladie, alors qu'il se peut qu'elle soit le cas pour tout homme, si bien qu'il en résulterait que la maladie ne pourrait être le cas pour aucun homme.
+
+Dans la troisième figure, cette erreur se produit sur le il se peut que — ; et de fait il se peut que la santé et la maladie, ou la science [20] et l'ignorance, et en général les contraires, soient le cas pour un même terme, mais ils ne peuvent pas être le cas l'un pour l'autre. Or ceci ne s'accorde pas avec ce qui a été dit précédemment : en effet on avait dit que lorsqu'il se peut que plusieurs termes soient le cas pour un même terme, il se peut également qu'ils soient le cas l'un pour l'autre.
+
+On voit donc que, dans tous ces exemples, l'erreur dépend de [25] la façon de mettre les termes en évidence car, en les remplaçant par les sujets qui sont dans ces dispositions, il ne se produit pas d'erreur. Clairement, donc, avec des prémisses de cette sorte, il faut toujours remplacer la disposition par le sujet qui est dans cette disposition, et c'est cela qu'il faut poser comme terme.
+
+
+
+
+
+Chapitre 35
+
+
+Termes pour lesquels il n'y a pas de nom établi
+
+Et il ne faut pas chercher toujours à dégager les termes au moyen d'un nom ; [30] car il y aura souvent des notions pour lesquelles il n'y a pas de nom établi. C'est pourquoi il est difficile de réduire des déductions de cette sorte, et il arrivera même qu'on commette des erreurs parce qu'on conduira sa recherche de cette façon : par exemple sur le fait qu'il y a des déductions pour des propositions immédiates.
+
+Soit A = deux angles droits, B = triangle et C = isocèle. A est donc le cas [35] pour C par l'intermédiaire de B, mais pour B il ne l'est plus par l'intermédiaire d'un autre terme (car c'est par soi-même que le triangle vaut deux angles droits), de sorte qu'il n'y aurait pas de moyen terme pour AB ; alors que c'est matière à démonstration.
+
+En effet, on voit que le moyen terme ne doit pas toujours être recherché de cette façon, comme si cela devait être un ceci, mais parfois sous la forme d'un énoncé plus long (comme cela se produit notamment dans le cas qu'on vient de dire).
+
+
+
+
+
+Chapitre 36
+
+
+Les flexions et le sens de « — est le cas pour — »
+
+[40] Quant au fait que le premier terme est le cas pour le moyen et celui-ci pour le dernier terme, il ne faut pas le prendre comme si à chaque fois l'un devait être prédiqué [48b] de l'autre, ou comme si le premier terme devait être prédiqué du moyen de la même façon que celui-ci est prédiqué du dernier ; et de même dans les cas de propositions négatives. En fait, autant il y a de sens de « être » et de manières de dire de façon vraie que ceci est cela, autant il faut estimer qu'il y a de significations de être le cas pour —.
+
+Soit par exemple la thèse qu'il[5]y a une seule science des contraires. En effet, soit A = il y a une seule science, B = les termes contraires l'un à l'autre. Alors A est le cas pour B, non pas comme si les contraires « étaient » le fait qu'il y a une seule science d'eux ; mais parce qu'il est vrai de dire qu'il y a une seule science d'eux.
+
+[10] Il arrive parfois que le premier terme se dise à propos du moyen et que le moyen ne se dise pas à propos du troisième : ainsi si la sagesse est une science et si la sagesse concerne le bien, et que la conclusion est qu'il y a une science du bien : dans ce cas, le bien n'est pas une science, mais la sagesse est une science.
+
+Parfois le [15] moyen se dit à propos du troisième, mais le premier ne se dit pas à propos du moyen : ainsi s'il y a une science de toute qualité ou de tout contraire et si le bien est une qualité, et aussi un contraire, la conclusion est qu'il y a une science du bien ; mais le bien n'est pas une science, pas plus que la qualité ni le contraire ; par contre, le bien est <une qualité et un contraire>.
+
+[20] Et il arrive que ni le premier ne se dise à propos du moyen ni celui-ci à propos du dernier alors que le premier, tantôt se dit, et tantôt ne se dit pas, à propos du troisième : ainsi, si ce dont il y a une science, il en existe un genre, et s'il y a une science du bien, la conclusion est que le bien est un genre ; pourtant aucun de ces termes ne s'applique à aucun. Mais si ce dont il y a science [25] est un genre et s'il y a une science du bien, la conclusion est que le bien est un genre. Ainsi donc, le premier terme s'applique au terme extrême, mais ils ne se disent pas les uns des autres.
+
+
+
+Il faut poser les termes de la même façon dans les cas de propositions négatives également. En effet, « ceci n'est pas le cas pour cela » ne signifie pas toujours que ceci n'est pas cela, mais [30] parfois que ceci n'est pas de cela ou que ce n'est pas pour cela.
+
+Par exemple : il n'y a pas de mouvement de mouvement, ni de génération de génération, or il y en a du plaisir ; donc le plaisir n'est pas une génération. Ou encore : il existe un signe du rire, or il n'existe pas de signe de signe, si bien que le rire n'est pas un signe ; même chose dans les autres cas dans lesquels la conclusion proposée est rejetée en s'appuyant sur le fait [35] que le genre se rapporterait d'une certaine façon à soi-même.
+
+Ou encore : l'occasion n'est pas le moment dont on a besoin ; en effet, il peut y avoir une occasion pour un dieu, alors qu'il n'y a pas de « moment dont il ait besoin », parce qu'il n'y a rien d'utile pour un dieu. En effet, il faut poser comme termes occasion, moment dont on a besoin et dieu, mais déterminer les prémisses en tenant compte de la flexion du nom. Car nous disons cela [40] de façon simple pour tous les cas : qu'il faut toujours poser les termes au nominatif, ainsi homme, bien ou contraires, [49a] et non pas de l'homme, du bien ou des contraires ; par contre il faut déterminer les prémisses en tenant compte des flexions pour chaque cas : soit « à cela » (par exemple pour égal), soit « de cela » (par exemple pour double), soit « cela » (par exemple pour qui frappe ou qui voit), soit « celui-là » (par exemple « l'homme » est un animal), ou [5] toute autre forme fléchie du nom qui puisse être requise selon la prémisse.
+
+
+
+
+
+Chapitre 37
+
+Que ceci soit le cas pour cela, ou qu'il soit vrai de dire ceci à propos de cela, il faut le prendre d'autant de façons que celles dans lesquelles on divise les prédications, et cela soit sous un certain point de vue, soit absolument, et en outre ces prédications sont soit simples, soit complexes ; même chose pour « ne pas être le cas ». Il faut [10] examiner cela et préciser les distinctions.
+
+
+
+
+
+Chapitre 38
+
+
+Cas des expressions « redoublées »
+
+La répétition d'un terme dans une prémisse doit être rattachée au premier terme et non pas au moyen.
+
+Je veux dire que s'il y a une déduction de ce qu'il existe un savoir portant sur la justice, le savoir qu'elle est un bien, il faut placer « qu'elle est un bien » ou « en tant que bien » du côté du premier terme. [15] Ainsi, soit A = savoir que — est un bien, en B, le bien, et en C la justice. Alors l'application de A à B est vraie : car il y a un savoir de ce qu'un bien est un bien. Mais l'application de B à C est vraie aussi, car la justice est réellement un bien. C'est de cette façon qu'il y a une analyse. Au contraire, si on rattache que c'est un bien à B, il n'y [20] en aura pas. Car A sera vrai de B, mais B ne sera pas vrai de C ; car prédiquer « le bien, que c'est un bien », de la justice, est faux et n'a même pas de sens. Même chose si l'on montrait que le sain est l'objet d'un savoir en tant que bien, ou le bouc-cerf en tant que non-étant, ou que l'homme est périssable en tant [25] qu'être sensible. Car dans tous ces prédicats additionnels, il faut rattacher la répétition au terme extrême.
+
+La façon de poser les termes n'est pas la même lorsqu'on déduit simplement quelque chose à propos du sujet et lorsqu'on déduit qu'il a telle détermination sous un certain point de vue ou d'une certaine façon – je veux dire par exemple lorsqu'on montre que le bien est connaissable et lorsqu'on montre que quelque chose est connaissable comme un bien. [30] En réalité, si on a simplement établi que <quelque chose> est connaissable, il faut poser comme moyen terme ce que c'est, alors que si on a montré qu'on peut savoir que c'est un bien, il faut poser comme moyen terme que cela a telle détermination. En effet, soit A = savoir que c'est tel, en B, étant tel, et en C le bien ; alors l'application de A à B est vraie, car, avons-nous dit, on peut savoir, à propos de ce qui est tel, que c'est tel. Mais l'application de B à C est vraie aussi, car le terme en C est tel. [35] De sorte qu'il est vrai aussi de prédiquer A de C. Donc il y aura une connaissance du bien en tant que bien. En effet, le terme étant tel est, disons-nous, un signe de la nature propre. Si donc on avait posé étant comme moyen terme et si, du côté du terme extrême, on avait énoncé l'étant au sens absolu et non pas l'étant tel, alors il n'y aurait pas eu de déduction qu'il y a une science du bien en tant que bien, mais simplement en tant qu'il est. Ainsi, A = savoir[49b] que cela est, B = étant, C = bien.
+
+On voit donc que dans les déductions partielles c'est de cette façon qu'il faut prendre les termes.
+
+
+
+
+
+Chapitre 39
+
+
+Expressions synonymes
+
+Il faut substituer les uns aux autres des termes qui ont la même signification, des mots à la place de mots et des expressions à la place d'expressions, ou bien un mot et [5] une expression, et toujours prendre le nom à la place de l'expression : car ainsi la mise en évidence des termes est facilitée. Par exemple, si cela ne fait aucune différence de dire que objet de croyance n'est pas le genre de l'objet d'opinion, ou que l'objet d'opinion n'est pas essentiellement un certain objet de croyance (car ce qui est indiqué par ces formules est identique), il faut poser comme termes « l'objet de croyance » et « l'objet d'opinion » au lieu de l'expression qui les indique.
+
+
+
+
+
+Chapitre 40
+
+
+Expressions à distinguer
+
+[10] Puisque ce n'est pas la même chose de dire que « le plaisir est un bien » ou que « le plaisir est le bien », il ne faut pas poser les termes de la même façon ; mais si la déduction est que le plaisir est le bien, il faut poser le bien, et si c'est que c'est un bien, bien ; même chose dans les autres cas.
+
+
+
+
+
+Chapitre 41
+
+
+L'application des quantificateurs
+
+Ce n'est pas la même chose, ni dans la réalité ni dans l'expression, que : ce pour quoi B[15]est le cas, A est le cas pour cela tout entier, et : ce pour quoi, tout entier, B est le cas, A aussi est le cas pour cela tout entier. Car rien n'empêche que B soit le cas pour C, mais pas tout entier. Ainsi, soit B = beau, C = blanc. Si beau est le cas pour tel blanc, il est vrai de dire que beau est le cas pour le blanc – mais peut-être pas pour [20] tout blanc. Si A est bien le cas pour B, mais pas pour tout ce dont B se dit, alors, que B soit le cas pour tout C ou qu'il soit seulement le cas pour C, il ne s'ensuit pas nécessairement que A soit le cas pour tout C, ni même qu'il soit le cas pour C. Mais si, ce dont B se dit de façon vraie, B est le cas pour cela tout entier, il s'ensuivra que A se dira tout entier [25] de la totalité de ce dont B se dit. Si cependant A se dit d'un terme dont B se dirait sans exception, rien n'empêche que B soit le cas pour C, mais que A ne soit pas le cas pour tout C, voire qu'il ne soit pas du tout le cas pour C.
+
+Alors, dans cet ensemble de trois termes, il est clair que « A se dit de tout ce dont B se dit » revient à dire que « quels que soient les termes dont B se dit, A se dit aussi [30] d'eux tous » ; et si B se dit de C tout entier, alors A aussi, de la même façon ; alors que s'il ne se dit pas de C tout entier, il n'est pas nécessaire que A se dise de lui tout entier.
+
+
+
+
+La « mise en évidence » (ecthèse)
+
+Il ne faut pas croire que la mise en évidence entraîne des conséquences étranges. En effet, nous n'utilisons nullement le fait que cela a telle détermination, [35] tout comme le géomètre dit que cette ligne-ci est longue d'un pied, qu'elle est droite et qu'elle est sans largeur, alors que ses lignes ne le sont pas, mais il s'en sert comme s'il déduisait à partir de ces propriétés. Car, généralement parlant, ce qui n'est pas comme un tout par rapport à sa partie (ou inversement ce qui n'est pas par rapport à lui comme la partie par rapport au tout), celui qui démontre ne démontre jamais à partir de cela, de sorte qu'il n'y a tout simplement pas [50a] de déduction <à partir de ces autres traits>. Mais nous avons recours à cette mise en évidence comme pour demander que celui qui apprend se serve de la perception. En effet, nous n'avons pas recours à elle comme si sans elle il était impossible de démontrer – comme c'est le cas pour les termes à partir desquels on déduit.
+
+
+
+
+
+Chapitre 42
+
+
+Présence de plusieurs figures au sein d'une même déduction
+
+[5] Il ne faut pas perdre de vue que dans la même déduction, toutes les conclusions ne se font pas au moyen d'une seule et même figure, mais que l'une se fera par celle-ci et l'autre par une autre. Il est donc clair qu'il faut faire les analyses aussi de cette façon. Et puisque toute conclusion proposée ne se déduit pas dans toute figure, mais que des conclusions bien déterminées se déduisent dans chacune, on verra clairement à partir de [10] la conclusion quelle est la figure dans laquelle il faut chercher.
+
+
+
+
+
+Chapitre 43
+
+
+Remplacement d'une expression longue par une expression courte
+
+Lorsque des discours tendent vers une définition : pour toutes les discussions qui se trouvent aboutir à un élément unique (parmi ceux qui sont contenus dans le terme), il faut poser comme terme ce <terme unique> qui résulte de la discussion, et non pas <récapituler> la discussion tout entière. Il en résultera que l'on sera moins embarrassé par la longueur des formules. Par exemple, s'il s'agissait de montrer que l'eau est[15]un liquide potable, il faut poser comme termes eau et potable.
+
+
+
+
+
+Chapitre 44
+
+
+On ne peut pas analyser complètement les déductions qui reposent sur une hypothèse
+
+Par ailleurs, il ne faut pas chercher à réduire les déductions qui résultent d'une supposition initiale ; car il n'est pas possible de les réduire à partir des principes qui ont été posés. C'est qu'elles n'ont pas été établies par voie de déduction, mais toutes ont fait l'objet d'un accord conventionnel : par exemple si on suppose au départ que lorsqu'il n'existe pas une certaine puissance [20] une qui soit puissance des contraires, il n'y en aura pas non plus une science une, et si ensuite on établit dialectiquement que toute puissance n'est pas puissance des contraires, comme par exemple celle de ce qui est bon ou de ce qui est mauvais pour la santé (car la même chose serait en même temps bonne et mauvaise pour la santé). Ainsi donc, qu'il n'y a pas toujours une puissance unique pour les contraires, cela a été démontré ; mais qu'il n'y en a pas toujours une science unique, cela n'a pas été établi. Pourtant, on doit [25] nécessairement le reconnaître, mais cela non pas par suite d'une déduction, mais en raison d'une supposition initiale. Cette inférence, il n'est pas possible de la réduire ; mais celle qu'il n'y a pas de puissance unique, oui. Car celle-ci était sans doute elle-même une déduction, alors que l'autre était une supposition initiale.
+
+
+
+Même chose pour les conclusions auxquelles on parvient par l'impossible. [30] Il n'est pas possible non plus de les analyser ; mais on peut analyser l'inférence qui aboutit à l'impossible, car cela est établi par déduction ; quant au reste de l'argument, ce n'est pas possible, car cela résulte d'une supposition initiale. Ces cas diffèrent pourtant des précédents, parce que dans ceux-là on doit s'entendre à l'avance, s'il doit y avoir un accord <à la fin>, par exemple : « si l'on montre qu'il y a une puissance unique pour des contraires, [35] alors ils relèvent aussi de la même science ». Alors qu'ici, même si on ne s'est pas entendu au préalable, on donne son accord, du fait que la fausseté est manifeste : ainsi, si l'on pose que la diagonale est commensurable, la conclusion qu'un nombre impair est égal à un nombre pair <est manifestement fausse>.
+
+
+
+Beaucoup de déductions très diverses sont atteintes par hypothèse ; il faut [40] les examiner et les caractériser nettement. Maintenant, quelles sont les [50b] différences entre elles et de combien de façons se produit l'inférence à partir d'une hypothèse, nous le dirons plus tard. Pour le moment, qu'il nous suffise d'avoir fait voir qu'il n'est pas possible d'analyser les déductions de cette sorte ; et pour quelle raison, nous l'avons dit.
+
+
+
+
+
+Chapitre 45
+
+
+Comment les différentes figures peuvent se ramener les unes aux autres
+
+[5] Lorsque des conclusions proposées se démontrent dans plusieurs figures, si elles se déduisent dans l'une, il est possible de les ramener à l'autre : ainsi on peut réduire la déduction négative de la première figure à la seconde, et celle de la figure moyenne à la première figure. Cependant ce n'est pas le cas pour toutes, mais <seulement> pour certaines, comme on le verra dans ce qui suit.
+
+
+
+En effet, si [10] A n'est le cas pour aucun B et si B est le cas pour tout C, A n'est le cas pour aucun C. De cette façon, donc, c'est la première figure, et si l'on convertit la négative, ce sera la figure intermédiaire : car B n'est le cas pour aucun A et pour tout C. Même chose lorsque la déduction n'est pas universelle mais particulière. Ainsi, si A n'est le cas pour aucun B et [15] B pour tel C, car en convertissant la prémisse négative on aura la figure intermédiaire.
+
+
+
+Parmi les déductions qui ont lieu dans la seconde figure, celles qui sont universelles se ramènent à la première, mais seulement l'une des deux particulières. En effet, posons que A n'est le cas pour aucun B et pour tout C. [20] En convertissant la proposition négative, on aura donc la première figure. Car B ne sera le cas pour aucun A et A pour tout C. Si l'affirmative est du côté de B et la négative du côté de C, il faudra poser C comme premier terme ; car il ne sera le cas pour aucun A et A pour tout B, de sorte que C ne sera le cas pour aucun B. Donc B également ne sera le cas pour aucun C, [25] car la négative se convertit.
+
+Quand la déduction est partielle, lorsque la négative est du côté du grand terme, elle se réduira à la première figure, ainsi si A n'est le cas pour aucun B et pour tel C. Car en convertissant la négative, on aura la première figure. En effet, B ne sera le cas pour aucun A, et A pour tel [30] C.
+
+Mais lorsque c'est l'affirmative <qui est du côté du grand terme>, l'analyse sera impossible. Ainsi, si A est le cas pour tout B, et pour C, mais pas tout entier ; car AB n'admet pas la conversion, et si on procédait à la conversion on n'obtiendrait pas de déduction.
+
+
+
+Les déductions qui se font dans la troisième figure, maintenant, ne se réduisent pas toutes à la première, mais celles de la première se réduisent toutes à la [35] troisième. En effet, posons que A est le cas pour tout B et B pour tel C. Donc, puisque la particulière affirmative se convertit, C sera le cas pour tel B. Or A, avons-nous dit, est le cas pour tel B, de sorte qu'on a la troisième figure. Et si la déduction est négative, il en va de même : car la proposition particulière affirmative se convertit, de sorte que [40] A ne sera le cas pour aucun B et C sera le cas pour tel B.
+
+
+
+[51a] Parmi les déductions de la dernière figure, une seule ne s'analyse pas dans la première, à savoir lorsque la négative n'est pas universelle ; et toutes les autres s'analysent. Admettons en effet que A et B s'appliquent à tout C. Donc, C se convertira partiellement [5] par rapport à l'un et à l'autre. Donc il est le cas pour tel B. De sorte qu'on aura la première figure, si A est le cas pour tout B et B pour tel des C.
+
+Si A est le cas pour tout B et B pour tel C, on aura le même argument, car B se convertit avec C.
+
+Si B est le cas pour tout C et A pour tel C, il faut poser B [10] comme premier terme. En effet, B est le cas pour tout C, C pour tel A, de sorte que B est le cas pour tel A. Or, puisque la particulière se convertit, A sera aussi le cas pour B.
+
+Et si la déduction est négative, les termes étant universels, il faut prendre les prémisses de la même façon. Admettons en effet que B est le cas pour tout C et A pour aucun : donc C sera le cas pour tel des B, [15] et A pour aucun C, de sorte que C sera le moyen terme.
+
+Même chose si la négative est universelle et l'affirmative particulière. En effet, A ne sera le cas pour aucun C et C pour tel des B. Et si on pose que c'est la négative qui est particulière, il n'y aura pas d'analyse possible, par exemple si B est le cas pour tout C tandis que A n'est pas le cas pour tel C. [20] Car en convertissant BC, les deux prémisses seront particulières.
+
+Et on voit que pour analyser les figures l'une dans l'autre il faut, dans les deux figures, convertir la prémisse qui est du côté du petit terme. Car nous avons vu que c'est en déplaçant celle-ci que se fait [25] le passage de l'une à l'autre.
+
+
+
+Parmi les déductions dans la figure intermédiaire, l'une s'analyse, et l'autre ne s'analyse pas, dans la troisième. En effet, lorsque l'universelle est négative, elle s'analyse. Car si A n'est le cas pour aucun B mais est le cas pour tel C, l'un et l'autre terme se convertissent de la même façon par rapport à A, [30] de sorte que B ne sera le cas pour aucun A, et C pour tel A ; donc le moyen terme sera A.
+
+Lorsque A est le cas pour tout B et n'est pas le cas pour tel C, il n'y aura pas d'analyse, car aucune des deux prémisses ne sera universelle à la suite de la conversion.
+
+
+
+Et les déductions qui relèvent de la troisième figure s'analyseront dans [35] la figure intermédiaire, lorsque l'universelle est négative, par exemple si A n'est le cas pour aucun C, et si B est le cas pour tel ou pour tout C. Et de fait C ne sera le cas pour aucun A et pour tel B.
+
+Mais lorsque la négative est particulière, il n'y aura pas d'analyse possible, car la particulière négative n'admet pas la conversion.
+
+
+
+[40] On voit donc que les déductions qui ne s'analysent pas dans ces figures sont les mêmes qui ne s'analysaient pas non plus dans la première, [51b] et que parmi les déductions qui se ramènent à la première figure, celles-ci seules sont atteintes par l'impossible.
+
+De quelle façon, donc, il faut réduire les déductions ; et que les figures s'analysent les unes dans les autres, on le voit d'après ce qui a été dit.
+
+
+
+
+
+Chapitre 46
+
+
+Les contradictoires
+
+[5] Mais pour établir ou pour réfuter une thèse, cela fait une différence de déterminer si « ne pas être ceci » et « être non-ceci » signifient la même chose ou des choses distinctes : par exemple, si « ne pas être blanc » signifie la même chose que « être non-blanc ».
+
+En fait, cela ne signifie pas la même chose, et ce n'est pas « être non-blanc », mais « ne pas être blanc », qui est la négation [10] de « être blanc ».
+
+
+
+
+Analogie entre « être » et « connaître » et « être capable de »
+
+La raison de ce fait est la suivante : — peut marcher est par rapport à — peut ne pas marcher dans la même relation que — est blanc par rapport à — est non-blanc, et de même — connaît le bien par rapport à — connaît le non-bien. Car — connaît le bien n'est pas différent de — est quelqu'un qui connaît le bien, et de même pour — peut marcher[15] et — est capable de marcher ; de sorte qu'il en va de même pour les opposés, — ne peut pas marcher et — n'est pas capable de marcher. Si donc — n'est pas capable de marcher signifie la même chose que — est capable de ne pas marcher, les deux prédicats seront le cas ensemble pour le même sujet (en effet, le même être peut marcher et ne pas marcher, [20] et le même homme a la connaissance du bien et du non-bien) ; or l'affirmation et la négation opposées ne sont pas le cas ensemble pour le même sujet. De même, donc, que ne pas connaître le bien et connaître le non-bien ne sont pas la même chose, de même être non-bon et ne pas être bon ne sont pas la même chose non plus. Entre des termes analogues, en effet, lorsque les uns [25] sont distincts, les autres aussi sont distincts.
+
+
+
+
+Distinction entre contraires et contradictoires
+
+Être non-égal et ne pas être égal ne sont pas la même chose non plus : car l'une de ces expressions présuppose un certain quelque chose qui est sous-jacent à qui est non-égal (ce quelque chose, c'est l'inégal), alors que l'autre expression ne présuppose aucun sujet. C'est précisément pour cela que tout n'est pas égal ou inégal, alors que tout est égal ou non-égal. Ou encore, — est du bois non-blanc et — n'est pas du bois blanc ne sont pas <toujours> le cas ensemble. Car si quelque chose est [30] du bois non-blanc, ce sera du bois, alors que ce qui n'est pas du bois blanc n'est pas nécessairement du bois. Par conséquent, on voit que — est non-bon n'est pas la négation de — est bon. Si donc, pour tout prédicat un, l'affirmation ou la négation est vraie, alors, si ce n'est pas la négation, ce sera une sorte d'affirmation, et il y a une négation de toute [35] affirmation ; ainsi donc, la négation de celle-ci est — n'est pas non-blanc. Ces termes ont entre eux l'ordre que voici. Posons être bon en A ; ne pas être bon en B ; être non-bon en C, sous B ; et ne pas être non-bon en D, sous A.
+
+A
+
+être bon
+
+B
+
+ne pas être bon
+
+
+
+D
+
+ne pas être non-bon
+
+C
+
+être non-bon
+
+
+
+Alors, soit A soit B sera le cas pour tout sujet, et ils ne seront jamais le cas pour le même ; et soit C, soit D seront le cas pour tout sujet et jamais pour le même.
+
+En outre, il est nécessaire que B soit le cas pour tout ce pour quoi C est le cas (en effet, s'il [52a] est vrai de dire que c'est non-blanc, alors il est vrai aussi de dire que ce n'est pas blanc : car il est impossible d'être ensemble blanc et non-blanc, ou d'être du bois blanc et d'être du bois non-blanc, de sorte que si l'affirmation n'est pas le cas, c'est la négation qui sera le cas) ; mais ce pour quoi C est le cas ne sera [5] pas toujours le cas pour ce pour quoi B est le cas, car ce qui n'est pas du tout du bois ne sera pas non plus du bois non-blanc.
+
+Symétriquement, D est le cas pour tout ce pour quoi A est le cas ; en effet, ou bien C ou bien D est le cas pour cela ; mais puisqu'il n'est pas possible d'être ensemble non-blanc et blanc, c'est D qui s'appliquera, car il est vrai de dire de ce qui est blanc que ce n'est pas non-blanc ; mais A ne s'applique pas à tout D ; de ce [10] qui n'est pas du tout du bois, en effet, il n'est pas vrai de dire A (c'est-à-dire, que c'est du bois blanc), de sorte que D sera vrai, mais A (à savoir, que c'est du bois blanc) ne sera pas vrai.
+
+Et il est clair aussi que A et C ne sont jamais le cas pour le même sujet, alors qu'il se peut que B et D soient le cas pour un même sujet.
+
+[15] Les privations elles aussi sont dans la même relation par rapport aux attributions : posez égal en A ; non-égal en B ; inégal en C ; non-inégal en D.
+
+Et dans beaucoup d'autres cas, lorsque le même terme est le cas pour les uns et n'est pas le cas pour les autres, la négation se trouve vraie dans les mêmes conditions, à savoir que [20] toutes choses ne sont pas blanches ou que chaque chose n'est pas blanche ; mais que chaque chose soit non-blanche, ou que toutes choses soient non-blanches, c'est faux. De même encore, la négation de « tout animal est blanc » n'est pas « tout animal est non-blanc » (car les deux propositions sont fausses), mais « il n'est pas vrai que tout animal soit blanc ».
+
+
+
+
+Conséquence : le type de démonstration
+
+approprié à chaque type de proposition
+
+Et puisqu'il est clair que [25]— est non-blanc et — n'est pas blanc ne signifient pas la même chose, et que l'un est une affirmation alors que l'autre est une négation, on voit que les deux ne se démontrent pas de la même façon : par exemple, que tout ce qui peut être animal n'est pas blanc (ou qu'il se peut que ce ne soit pas blanc), et qu'il est vrai de dire qu'il est non-blanc ; car c'est cela, être non-blanc. Alors que dire qu'il est [30] vrai qu'il est blanc (ou non-blanc), cela se démontrera de la même façon : car l'une et l'autre proposition se démontrent positivement par la première figure. C'est que vrai se construit de la même façon que est. En effet, la négation de « il est vrai de le dire blanc » n'est pas « il est vrai de le dire non-blanc », mais « il n'est pas vrai de le dire blanc ». Si donc il est vrai [35] de dire que ce qui peut être homme est cultivé (ou non-cultivé), il faudra poser l'hypothèse que ce qui peut être animal est ou bien cultivé, ou bien non-cultivé ; cela a été établi. Quant à la thèse que ce qui peut être homme n'est pas cultivé, elle se démontre par voie de réfutation, des trois manières qui ont été dites.
+
+
+
+
+La structure du système des oppositions1
+
+En général, lorsque A et B sont dans une telle relation qu'il [40] ne se peut pas qu'ils soient le cas ensemble pour le même sujet mais qu'il faut nécessairement [52b] que l'un des deux soit le cas pour lui, et qu'en outre C et D sont dans la même relation, et que A est impliqué par C et non l'inverse, alors B implique D et non l'inverse ; et il se peut que A et D soient le cas pour le même sujet, alors que pour B et C cela ne se peut pas.
+
+Premièrement, donc, que D [5] s'ensuit de B, cela se voit à partir de ceci : étant donné que C ou D est nécessairement le cas pour tout sujet, et que ce pour quoi B est le cas, il ne se peut pas que C soit le cas pour lui (du fait qu'il implique A, et qu'il ne se peut pas que A et B soient le cas pour le même sujet), on voit que B impliquera D.
+
+Puisque, maintenant, C ne se convertit pas avec A, et que C ou D est le cas pour tout sujet, alors il se peut que A [10] et D soient le cas pour le même ; mais pour B et C cela ne se peut pas, du fait que A est impliqué par C : en effet, il s'ensuit alors quelque chose d'impossible. Il est donc clair que B non plus ne se convertit pas avec D (puisque, disions-nous, il est possible que D et A soient le cas ensemble).
+
+
+
+
+Erreur due à l'ignorance de cette distinction
+
+Il arrive parfois, même avec cette disposition des termes, [15] que l'on commette une erreur du fait que l'on ne prend pas correctement les opposés dont l'un ou l'autre doit nécessairement être le cas pour tout sujet. Par exemple s'il ne se peut pas que A et B soient le cas ensemble pour le même sujet, et si, nécessairement, l'un des deux doit être le cas pour un sujet pour lequel l'autre n'est pas le cas ; si en outre C et D sont dans la même relation ; et si, pour tout sujet pour lequel C est le cas, A s'ensuit. En effet, cela aurait pour conséquence que B serait nécessairement le cas [20] pour ce pour quoi D est le cas, ce qui est faux.
+
+Admettons en effet que F est la négation de AB, et G la négation de CD. Alors il est nécessaire que soit A, soit F, soit le cas pour tout sujet (car soit l'affirmation, soit la négation, est le cas pour tout sujet) ; et aussi soit C, soit G (car ce sont l'affirmation et la négation). Et ce pour quoi A est le cas, c'est par hypothèse le cas pour tout ce pour quoi C est le cas. [25] De sorte que G sera le cas pour tout ce pour quoi F est le cas. Maintenant, puisque l'un des deux termes F, B, est le cas pour tout sujet, et de même l'un des deux termes G, D, et que G suit de F, alors on aura aussi « B suit de D » (cela, en effet, nous le savons). Donc, si A suit de C, alors B suit de D également. Or ceci est faux ; car on a dit que lorsque les termes sont dans cette disposition, la conséquence se fait en sens inverse.
+
+En fait, il n'est sans doute pas nécessaire [30] que A ou F s'applique à tout sujet, ni F ou B, car F n'est pas la négation de A. En effet, la négation de bon est non-bon ; or le non-bon n'est pas la même chose que ce qui n'est ni bon ni non-bon ; de même dans le cas de C et D ; en effet, les négations qui ont été posées sont deux.
+
+
+
+
+
+LIVRE II
+
+
+
+
+
+Chapitre 1
+
+
+Récapitulation du livre I
+
+Dans combien de figures, donc, et au moyen de quelles sortes de prémisses et de combien ; et quand, et comment, il y a déduction ; [40] et aussi quelle sorte de choses il faut considérer pour réfuter une thèse et pour l'établir ; [53a] comment il faut conduire la recherche au sujet de la conclusion proposée, quelle que soit la voie suivie ; et enfin par quelle sorte de voie nous pourrons poser les principes nécessaires pour chaque conclusion, nous l'avons désormais exposé en détail.
+
+
+
+
+Conclusions additionnelles que l'on peut tirer de certains jeux de prémisses
+
+Et puisque, parmi les déductions, les unes sont universelles et les autres particulières, toutes les universelles [5] produisent chacune plusieurs conclusions, alors que parmi les particulières les affirmatives en produisent plusieurs, mais les négatives produisent seulement leur <propre> conclusion. Car les autres prémisses se convertissent, mais la négative ne se convertit pas. La conclusion consiste à dire quelque chose de quelque chose : c'est pourquoi les autres déductions en produisent plusieurs. [10] Par exemple, si on a établi que A est le cas pour tout B ou pour tel B, nécessairement aussi, B est le cas pour tel A ; et si A n'est le cas pour aucun B, B non plus n'est le cas pour aucun A ; et cette proposition est distincte de la précédente. Mais s'il n'est pas le cas pour tel B, il n'est pas nécessaire que B non plus ne soit pas le cas pour tel A ; en fait il se peut qu'il soit le cas pour tout A.
+
+
+
+[15] Cette explication est commune à toutes les déductions, universelles comme particulières. Mais dans le cas des universelles, on peut aussi présenter les choses d'une autre façon. Car pour tous les termes qui sont sous le moyen terme ou sous la conclusion, il y aura la même déduction si on pose les termes contenus dans le moyen ou ceux qui sont contenus dans la conclusion.
+
+Ainsi, si la conclusion AB [20] est obtenue grâce à C, il est nécessaire que A soit le cas pour tout ce qui est sous B ou sous C. Car si D est contenu dans B tout entier, et B dans A, D aussi sera dans A. Si maintenant E est contenu dans C tout entier, et C dans A, E aussi sera contenu dans A ; même chose si la déduction est négative.
+
+[25] Mais dans le cas de la deuxième figure, il ne sera possible de déduire que ce qui est sous la conclusion, par exemple si A n'est le cas pour aucun B et pour tout C : la conclusion sera que B n'est le cas pour aucun C. Alors, si D est sous C, on voit que B n'est pas le cas pour lui ; mais qu'il ne soit pas le cas pour les termes qui sont sous A, ce n'est pas au moyen de cette déduction que cela apparaîtra. [30] Pourtant il n'est pas le cas pour E, s'il est sous A. Mais le fait que B n'est le cas pour aucun C a été établi au moyen d'une déduction, alors que le fait qu'il ne soit pas le cas pour A a été posé sans démonstration, de sorte que ce n'est pas de cette déduction qu'il résulte que B n'est pas le cas pour E.
+
+Dans les cas de conclusions particulières, pour les termes qui sont sous [35] la conclusion, il n'y aura pas de nécessité (en effet, il n'y a pas de déduction lorsque cette conclusion est posée comme une prémisse particulière) ; et pour tous les termes qui sont sous le moyen terme, il y aura bien nécessité, si ce n'est que celle-ci ne résultera pas de la déduction : ainsi si A est le cas pour tout B et B pour tel C. En effet, si l'on pose ce qui est sous C, il n'y aura pas de déduction ; si on pose ce qui est contenu dans B, il y en aura une, [40] mais elle ne résultera pas des propositions avancées auparavant.
+
+Même chose pour les autres figures : il n'y aura pas de nécessité de ce qui est sous la conclusion, [53b] alors qu'il y en aura de ce qui est sous l'autre terme, si ce n'est que celle-ci ne résultera pas de la déduction ; ou alors, même dans l'universelle, nous avons vu que les termes qui sont sous le moyen sont établis à partir d'une prémisse posée sans être démontrée. De sorte que ou bien il n'y en aura pas dans le premier cas, ou bien il y en aura ici aussi.
+
+
+
+
+
+Chapitre 2
+
+Il est possible, certes, que les choses soient de telle sorte que les prémisses au moyen desquelles a lieu la déduction [5] soient vraies ; mais elles peuvent aussi être de telle sorte que les prémisses soient fausses, ou que l'une soit vraie et l'autre fausse. Quant à la conclusion, elle doit nécessairement être vraie ou fausse. Il est impossible, certes, de déduire le faux à partir de prémisses vraies, mais il est possible, à partir de fausses, de déduire le vrai (si ce n'est que cette déduction n'est pas une déduction du pourquoi, mais du fait, car il n'y a pas de déduction du pourquoi à partir de prémisses fausses). [10] Pour quelle raison, on le dira dans ce qui suit.
+
+
+Il n'est pas possible de déduire le faux à partir de prémisses vraies
+
+Premièrement, donc, qu'il n'est pas possible de déduire le faux à partir de prémisses vraies, c'est clair à partir de ceci : si, A étant, B doit nécessairement être, alors, B n'étant pas, A doit nécessairement ne pas être. Si donc A est vrai, il est nécessaire que B soit vrai, sans quoi il s'ensuivra [15] que la même chose est et n'est pas à la fois ; or c'est impossible. (Bien que A soit posé comme un terme unique, il ne faut pas supposer que, un seul terme étant posé, il serait possible que quelque chose s'ensuive nécessairement. En fait ce n'est pas possible, car ce qui suit par nécessité est la conclusion, et le plus petit nombre d'éléments par lesquels une conclusion est produite, c'est trois termes et [20] deux intervalles ou prémisses.) Si donc il est vrai que A est le cas pour tout ce pour quoi B est le cas, et que B est le cas pour ce pour quoi C est le cas, alors il faut nécessairement que A soit le cas pour ce pour quoi C est le cas, et il n'est pas possible que ce soit faux : car ce serait le cas et ce ne serait pas le cas à la fois. (A est posé comme une chose unique, les deux prémisses étant prises ensemble.)
+
+Même chose dans le cas des [25] négatives : car il n'est pas possible de montrer le faux à partir de prémisses vraies.
+
+
+
+
+Déduction du vrai à partir de prémisses fausses : première figure
+
+Cependant il est possible de déduire le vrai à partir de prémisses fausses, aussi bien lorsque les deux prémisses sont fausses que lorsqu'une seule l'est – mais celle-ci ne doit pas être n'importe laquelle, mais la seconde, si du moins on pose qu'elle est entièrement fausse. Si on ne pose pas qu'elle est entièrement fausse, c'est [30] n'importe laquelle.
+
+Admettons en effet que A soit le cas pour C tout entier, mais qu'il ne soit le cas pour aucun des B, et que B ne soit pas non plus le cas pour C (cela se peut : par exemple animal n'est le cas pour aucune pierre, ni pierre pour aucun homme). Lorsque, donc, on pose que A est le cas pour tout B et B pour tout C, A sera le cas pour tout C, de sorte qu'à partir de prémisses toutes deux fausses la conclusion sera vraie : [35] car tout homme est un animal.
+
+Il en va de même pour la négative. Car il est possible que ni A ni B ne soit le cas pour C, et que cependant A soit le cas pour B tout entier : par exemple lorsque, en prenant les mêmes termes, on pose comme moyen terme homme : car ni animal ni homme ne sont le cas pour aucune pierre, mais animal est le cas pour tout homme. De sorte que si [40] on pose que ce qui est le cas n'est le cas pour aucun, et que ce qui n'est pas le cas est le cas pour tous, la conclusion résultera de prémisses toutes deux fausses.
+
+[54a] On l'établira de la même façon si on pose que l'une ou l'autre est fausse jusqu'à un certain point.
+
+
+
+Si l'on pose que l'une des deux est fausse, alors, la première, par exemple AB, étant entièrement fausse, la conclusion ne sera jamais vraie ; mais elle pourra l'être si c'est BC qui est fausse. Par « entièrement fausse », j'entends la proposition [5] contraire, par exemple si, alors que ce n'est le cas pour aucun, on posait que c'est le cas pour tous ; ou si, alors que c'est le cas pour tous, on posait que ce ne l'est pour aucun.
+
+Admettons en effet que A n'est le cas pour aucun B et que B est le cas pour tout C. Alors, si je pose la prémisse BC entièrement vraie et la prémisse AB entièrement fausse, c'est-à-dire si je pose que A est le cas pour B tout entier, il est impossible que la conclusion soit vraie. Car on a vu que ce n'était le cas pour aucun [10] des C, s'il est vrai que A n'est le cas pour aucun des termes pour lesquels B est le cas, et si B est le cas pour tout C.
+
+Pas davantage si A est le cas pour tout B et B pour C, et si l'on pose que la prémisse BC est vraie et la prémisse AB entièrement fausse, et que A n'est le cas pour aucun de ceux pour lesquels B est le cas – la conclusion sera fausse là encore : car A sera le cas pour tout C, [15] s'il est vrai que A est le cas pour tout ce pour quoi B est le cas, et B pour tout C. On voit donc que si la première prémisse est posée entièrement fausse, aussi bien lorsqu'elle est affirmative que lorsqu'elle est négative, et que l'autre est vraie, la conclusion n'est pas vraie.
+
+
+
+Mais en ne la prenant pas entièrement fausse, il pourra y avoir une conclusion vraie.
+
+Car si A est le cas pour tout C et [20] pour tel B, et B pour tout C (ainsi, animal est le cas pour tout cygne, et pour tel être blanc, cependant que blanc est le cas pour tout cygne), alors, si on pose que A est le cas pour tout B et B pour tout C, A sera le cas pour tout C, de façon vraie (car tout cygne est un animal).
+
+Même chose si AB est négative : car il est possible que A soit le cas pour tel B, [25] mais pour aucun C, cependant que B sera le cas pour tout C ; par exemple, que animal soit le cas pour tel être blanc, mais pour aucune neige, cependant que blanc sera le cas pour toute neige. Si donc on posait que A n'est le cas pour aucun B et B pour tout C, A ne sera le cas pour aucun C.
+
+
+
+Si on prend la prémisse AB entièrement vraie et BC entièrement fausse, il pourra y avoir une déduction vraie.
+
+[30] Car rien n'empêche que A soit le cas pour B et pour C tout entier, et que cependant B ne soit le cas pour aucun C ; ainsi tous les termes qui sont espèces d'un même genre et qui ne sont pas contenus les uns dans les autres : car animal est le cas pour le cheval aussi bien que pour l'homme, mais cheval n'est le cas pour aucun homme. Si donc on pose que A est le cas pour tout B et B pour tout C, la conclusion sera vraie, [35] alors que la prémisse BC sera entièrement fausse.
+
+Même chose lorsque la prémisse AB est négative. En effet, il se peut que A ne soit le cas pour aucun B ni pour aucun C, ni B pour aucun C ; par exemple, un genre n'est pas le cas pour les espèces d'un autre genre. En effet, animal n'est le cas ni pour la musique ni pour la médecine, et [54b]musique n'est pas le cas non plus pour la médecine. Si donc on pose que A n'est le cas pour aucun B et que B est le cas pour tout C, la conclusion sera vraie.
+
+Si BC n'est pas fausse entièrement, mais jusqu'à un certain point, de cette façon aussi la conclusion pourra être vraie. Car rien n'empêche que A soit le cas à la fois pour B tout entier et pour C tout entier, [5] cependant que B serait le cas pour tel C ; ainsi le genre pour l'espèce et la différence : car animal est le cas pour tout homme et pour tout être pourvu de pieds ; et homme est le cas pour tel être pourvu de pieds et non pour tous. Si donc on posait que A est le cas pour tout B et B pour tout C, A sera le cas pour tout C – ce qui, avons-nous dit, est vrai.
+
+Même chose si la prémisse AB [10] est négative. Car il se peut que A ne soit le cas pour aucun B ni pour aucun C, cependant que B serait le cas pour tel C ; par exemple le genre pour l'espèce qui relève d'un autre genre et pour la différence : car animal n'est le cas pour aucune sagesse ni pour aucune connaissance théorique, alors que la sagesse est le cas pour telle connaissance théorique. Si donc on posait que A n'est le cas pour aucun [15] B et que B est le cas pour tout C, A ne sera le cas pour aucun C ; or ceci, avons-nous dit, est vrai.
+
+
+
+Dans le cas des déductions particulières, il se peut que la conclusion soit vraie lorsque la première prémisse est entièrement fausse et la seconde vraie ; et aussi lorsque la première est fausse jusqu'à un certain point [20] et la seconde vraie ; et encore lorsque la première est vraie et la particulière fausse, et lorsque les deux sont fausses.
+
+Car rien n'empêche que A ne soit le cas pour aucun B mais soit le cas pour tel C, et B pour tel C : ainsi animal n'est le cas pour aucune neige et pour tel être blanc, et neige est le cas pour tel être blanc. Si donc on prend comme moyen terme neige[25] et comme premier terme animal, et si on pose que A est le cas pour B tout entier et B pour tel C, la prémisse AB est entièrement fausse, BC est vraie, et la conclusion est vraie.
+
+Même chose lorsque la prémisse AB est négative. Car il est possible que A soit le cas pour B tout entier et qu'il ne soit pas le cas pour tel C, et que cependant [30] B soit le cas pour tel C. Ainsi, animal est le cas pour tout homme ; blanc ne s'applique pas à tel homme, et homme est le cas pour tel être blanc. De sorte que si, en prenant homme comme moyen terme, on pose que A n'est le cas pour aucun B et que B est le cas pour tel C, la conclusion sera vraie alors que la prémisse AB sera entièrement fausse.
+
+[35] Si la prémisse AB est fausse jusqu'à un certain point, la conclusion pourra être vraie. En effet, rien n'empêche que A soit le cas pour tel B et tel C et que B soit le cas pour tel C, par exemple animal pour tel être beau et tel être grand, et que beau soit le cas pour tel être grand. Si donc on pose que A est le cas pour tout B et B pour tel C, [55a] la prémisse AB sera fausse jusqu'à un certain point, BC sera vraie, et la conclusion sera vraie.
+
+Même chose lorsque la prémisse BC est négative : en fait les termes seront les mêmes, et dans la même disposition en ce qui concerne la démonstration.
+
+
+
+Si maintenant AB est vraie [5] et BC fausse, la conclusion pourra être vraie.
+
+Car rien n'empêche que A soit le cas pour B tout entier et pour tel C, et que B ne soit le cas pour aucun C. Par exemple, animal est le cas pour tout cygne et pour tel être noir, cependant que cygne n'est le cas pour aucun être noir, de sorte que si on pose que A est le cas pour tout B et B pour tel C, la conclusion [10] sera vraie alors que BC sera fausse.
+
+Même chose si on prend la prémisse AB négative. Car il est possible que A ne soit le cas pour aucun B et ne soit pas le cas pour tel C, et que cependant B ne soit le cas pour aucun C : ainsi le genre pour l'espèce relevant d'un autre genre et pour une propriété de ses propres espèces : en effet, animal[15] n'est le cas pour aucun nombre et est le cas pour tel être blanc ; mais nombre n'est le cas pour aucun être blanc. Si donc on prend le nombre comme moyen terme et si on pose que A n'est le cas pour aucun B et que B est le cas pour tel C, A ne sera pas le cas pour tel C, ce qui, avons-nous dit, est vrai ; et la prémisse AB est vraie et BC fausse.
+
+Si AB est fausse jusqu'à un certain point [20] et si BC aussi est fausse, la conclusion pourra être vraie. Car rien n'empêche que A soit le cas aussi bien pour tel B que pour tel C, mais que B ne soit le cas pour aucun C ; par exemple si B est contraire de C et si les deux sont des propriétés d'un même genre. En effet, animal est le cas pour tel être blanc et pour tel être noir, mais blanc n'est le cas pour aucun être noir. [25] Si donc on pose que A est le cas pour tout B et B pour tel C, la conclusion sera vraie.
+
+Il en va de même si on prend AB négative : les termes seront les mêmes et dans la même disposition en ce qui concerne la démonstration.
+
+Lorsque les deux prémisses sont fausses, la conclusion pourra être vraie : en effet, il est possible que A [30] ne soit le cas pour aucun B et soit le cas pour tel C, et que cependant B ne soit le cas pour aucun C : ainsi le genre pour l'espèce relevant d'un autre genre et pour la propriété des espèces qui sont en lui : car animal n'est le cas pour aucun nombre, mais est le cas pour tel être blanc ; et nombre n'est le cas pour aucun être blanc. Si donc on pose que A est le cas pour tout B et B pour tel C, la [35] conclusion sera vraie, alors que les deux prémisses seront fausses.
+
+Même chose lorsque AB est négative. Car rien n'empêche que A soit le cas pour B tout entier et ne soit pas le cas pour tel C, et que B ne soit le cas pour aucun C : ainsi animal est le cas pour tout cygne et n'est pas le cas pour tel être noir ; et cygne n'est le cas pour aucun être noir. De sorte que si [40] on pose que A n'est le cas pour aucun B et que B est le cas pour tel C, A ne sera pas le cas pour [55b] tel C ; la conclusion est donc vraie alors que les prémisses sont fausses.
+
+
+
+
+
+Chapitre 3
+
+
+Déduction du vrai à partir de prémisses fausses : deuxième figure
+
+Dans la figure intermédiaire, il est possible de toutes les façons de déduire une proposition vraie au moyen de prémisses fausses : aussi bien en prenant les deux prémisses [5] entièrement fausses qu'avec l'une et l'autre fausses dans une certaine mesure, ou si l'une est vraie et l'autre entièrement fausse (quelle que soit celle des deux qui est prise fausse), [et si l'une et l'autre sont fausses dans une certaine mesure, et si l'une est absolument vraie et l'autre fausse dans une certaine mesure, et si l'une est absolument fausse et l'autre vraie dans une certaine mesure], aussi bien dans les déductions universelles que dans les déductions [10] particulières.
+
+Car si A n'est le cas pour aucun B et est le cas pour tout C – par exemple, animal n'est le cas pour aucune pierre mais est le cas pour tout cheval –, si on prend des prémisses contraires, en posant que A est le cas pour tel B mais n'est le cas pour aucun C, la conclusion sera vraie à partir de prémisses qui seront entièrement fausses.
+
+Même chose si A est le cas pour [15] tout B et pour aucun C : car ce sera la même déduction.
+
+
+
+Même chose encore si l'une des prémisses est entièrement fausse et l'autre entièrement vraie.
+
+En effet, rien n'empêche que A ne soit le cas et pour B et pour C tout entiers et que cependant B ne soit le cas pour aucun C : ainsi le genre pour les espèces qui ne sont pas contenues l'une dans l'autre. Car animal est le cas pour tout cheval [20] aussi bien que pour tout homme, et aucun homme n'est un cheval. Si donc on pose qu'il est le cas pour l'un des deux tout entier, et pas du tout pour l'autre, l'une des deux propositions sera entièrement fausse et l'autre entièrement vraie, et la conclusion sera vraie, de quelque côté que l'on place la négative.
+
+Et aussi si l'une des deux est fausse dans une certaine mesure et l'autre entièrement vraie.
+
+En effet, il est possible que A soit le cas pour tel [25] B et pour tout C et que cependant B ne soit le cas pour aucun C ; ainsi animal est le cas pour tel être blanc et pour tout corbeau, et blanc n'est le cas pour aucun corbeau. Si donc on pose que A n'est le cas pour aucun B et est le cas pour C tout entier, la prémisse AB sera fausse dans une certaine mesure et AC entièrement vraie, et la conclusion aussi sera vraie. [30] Et il en ira de même si l'on déplace la négative, car la démonstration se fait au moyen des mêmes termes.
+
+Et aussi lorsque la prémisse affirmative est fausse dans une certaine mesure et la négative entièrement vraie.
+
+En effet, rien n'empêche que A soit le cas pour tel B et ne soit pas le cas pour C tout entier, et que B ne soit le cas pour aucun C : ainsi, animal est le cas pour tel être blanc, mais pour aucune [35] poix, et blanc n'est le cas pour aucune poix. De sorte que si l'on pose que A est le cas pour B tout entier et pour aucun C, la prémisse AB sera fausse dans une certaine mesure, AC sera entièrement vraie, et la conclusion sera vraie.
+
+
+
+Et si les deux prémisses sont fausses dans une certaine mesure, la conclusion pourra être vraie.
+
+Car il est possible que A soit le cas pour tel B et pour [40] tel C, et que B ne soit le cas pour aucun C : ainsi animal est le cas pour tel [56a] être blanc et pour tel être noir, mais blanc n'est le cas pour aucun être noir. Si donc on pose que A est le cas pour tout B et n'est le cas pour aucun C, les deux prémisses seront fausses dans une certaine mesure et la conclusion sera vraie.
+
+Même chose en déplaçant la négative, au moyen des mêmes termes.
+
+
+
+[5] Cela se voit clairement aussi dans le cas des déductions partielles.
+
+En effet, rien n'empêche que A soit le cas pour tout B et pour tel C, et que B ne soit pas le cas pour tel C : ainsi, animal sera le cas pour tout homme et pour tel être blanc, et homme ne sera pas le cas pour tel être blanc. Si donc on pose que A n'est le cas pour aucun B et est le cas pour tel C, [10] la prémisse universelle est entièrement fausse, la particulière est vraie, et la conclusion est vraie.
+
+
+
+Il en va de même en prenant AB négative : car il est possible que A ne soit le cas pour aucun B et ne soit pas le cas pour tel C, et que B ne soit pas le cas pour tel C : ainsi animal n'est le cas pour aucun être inanimé mais [15] est le cas pour tel être blanc, et inanimé n'est pas le cas pour tel être blanc. Si donc on pose que A est le cas pour tout B mais n'est pas le cas pour tel C, la prémisse AB, l'universelle, est entièrement fausse, AC est vraie, et la conclusion est vraie.
+
+
+
+Et aussi en posant que l'universelle est vraie et la particulière fausse : car rien [20] n'empêche que A ne suive ni de B ni de C, et que cependant B ne soit pas le cas pour tel C. Ainsi animal ne suit d'aucun nombre ni d'aucun être inanimé, et nombre ne s'applique pas à tel être inanimé. Si donc on pose que A n'est le cas pour aucun B et est le cas pour tel C, la conclusion sera vraie, de même que la prémisse universelle, et la particulière [25] sera fausse.
+
+
+
+Et de même en posant que l'universelle est affirmative. Car il est possible que A soit le cas pour B et pour C tout entiers, et que cependant B ne suive pas de tel C : ainsi le genre pour l'espèce et la différence : car animal s'applique à tout homme et au genre pédestre tout entier, mais homme ne s'applique pas à tout pédestre. De sorte que lorsqu'on pose que A est le cas [30] pour B tout entier mais n'est pas le cas pour tel C, la prémisse universelle est vraie, la particulière fausse, et la conclusion est vraie.
+
+
+
+On voit clairement aussi qu'à partir de deux prémisses fausses, la conclusion pourra être vraie, s'il se peut que A soit le cas pour B et pour C tout entiers, cependant que B ne suit pas de tel C. [35] Car en posant que A n'est le cas pour aucun B mais est le cas pour tel C, les deux prémisses seront fausses et la conclusion sera vraie.
+
+Même chose si la prémisse universelle est affirmative et la particulière négative. Car il est possible que A ne s'applique à aucun B et à tout C, et que B [40] ne soit pas le cas pour tel C : ainsi animal ne s'applique à aucune science, mais s'applique à tout homme, et science ne s'applique pas à tout homme. [56b] Lorsque donc on pose que A est le cas pour B tout entier, mais ne s'applique pas à tel C, les prémisses sont fausses mais la conclusion est vraie.
+
+
+
+
+
+Chapitre 4
+
+
+Déduction du vrai à partir de prémisses fausses : troisième figure
+
+Dans la dernière figure aussi il y aura [5] une conclusion vraie résultant de prémisses fausses, aussi bien lorsque les deux seront entièrement fausses que lorsqu'elles le seront dans une certaine mesure, et lorsque l'une sera entièrement vraie et l'autre fausse, et lorsque l'une sera fausse dans une certaine mesure et l'autre vraie, et inversement, et en général de toutes les façons dont il est possible de distribuer les prémisses.
+
+En effet, rien n'empêche que ni A ni B ne soit le cas pour aucun [10] C et que cependant A soit le cas pour tel B : ainsi, ni homme ni pédestre ne s'appliquent à aucun être inanimé, et cependant homme est le cas pour tel être pédestre. Si donc on pose que A aussi bien que B est le cas pour C tout entier, les prémisses seront entièrement fausses et la conclusion vraie.
+
+De même lorsque l'une des deux est affirmative et l'autre [15] négative.
+
+En effet, il est possible que B ne soit le cas pour aucun C et que A soit le cas pour tout C, et que A ne soit pas le cas pour tel B. Ainsi, noir n'est le cas pour aucun cygne et animal n'est pas le cas pour tout être noir. De sorte que si l'on pose que B est le cas pour tout C et A pour aucun, A ne sera pas le cas pour tel B ; et la conclusion sera vraie [20] alors que les prémisses seront fausses.
+
+Et encore, si chacune des deux prémisses est fausse dans une certaine mesure, la conclusion pourra être vraie.
+
+En effet, rien n'empêche que A aussi bien que B soit le cas pour tel C, et que A soit le cas pour tel B : par exemple blanc et beau sont le cas pour tel animal, et blanc est le cas pour tel être beau. Si donc on pose que A et [25] B sont le cas pour tout C, les prémisses seront fausses dans une certaine mesure, et la conclusion sera vraie.
+
+Même chose en posant la prémisse AC négative.
+
+En effet, rien n'empêche que A ne soit pas le cas pour tel C et que B soit le cas pour tout C, cependant que A n'est pas le cas pour tout B ; ainsi, blanc n'est pas le cas pour tel animal, beau[30] est le cas pour tel animal, et blanc n'est pas le cas pour tout être beau. De sorte que si on pose que A n'est le cas pour aucun C, et B pour tout C, les deux prémisses seront fausses dans une certaine mesure et la conclusion sera vraie.
+
+
+
+De même en prenant l'une des prémisses entièrement fausse et l'autre entièrement vraie.
+
+Car il est possible que A et B [35] s'appliquent à C tout entier, cependant que A ne sera pas le cas pour tel B. Ainsi, animal et blanc s'appliquent à tout cygne, et cependant animal n'est pas le cas pour tout être blanc. En posant donc ces termes, si on pose que B est le cas pour C tout entier et que, pour C tout entier, A n'est pas le cas, BC sera entièrement vraie et AC entièrement fausse, et [40] la conclusion sera vraie.
+
+Même chose si BC est fausse et AC vraie. En effet, on a les mêmes termes pour la démonstration : [57a] {noir, cygne, inanimé}.
